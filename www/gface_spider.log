@@ -1,0 +1,47 @@
+[2017-11-13 16:03:11,771- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-11-13 16:03:11,773- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-11-13 16:03:11,773- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-11-13 16:03:11,774- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-11-13 16:03:11,968- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-11-13 16:03:11,969- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-11-13 16:03:11,969- root - INFO] - Add interceptor: <function user_interceptor at 0x108d788c0>
+[2017-11-13 16:03:11,969- root - INFO] - Add interceptor: <function manage_interceptor at 0x108d78a28>
+[2017-11-13 16:03:11,969- root - INFO] - Add module: urls
+[2017-11-13 16:03:11,969- root - INFO] - Add route: Route(static,GET,path=/api/get_assurance_data)
+[2017-11-13 16:03:11,969- root - INFO] - Add route: Route(static,GET,path=/api/get_finance_news_data)
+[2017-11-13 16:03:11,969- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_history)
+[2017-11-13 16:03:11,970- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_now)
+[2017-11-13 16:03:11,970- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_classification_datas)
+[2017-11-13 16:03:11,970- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_deal_data)
+[2017-11-13 16:03:11,970- root - INFO] - Add route: Route(static,GET,path=/api/task_list)
+[2017-11-13 16:03:11,970- root - INFO] - Add route: Route(static,GET,path=/api/users)
+[2017-11-13 16:03:11,970- root - INFO] - Add route: Route(static,GET,path=/api/news_scheduler_start)
+[2017-11-13 16:03:11,970- root - INFO] - Add route: Route(static,GET,path=/api/scheduler_start)
+[2017-11-13 16:03:11,970- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_hist_data_multithreading)
+[2017-11-13 16:03:11,970- root - INFO] - Add route: Route(dynamic,GET,path=/api/task_logs/:task_name)
+[2017-11-13 16:03:11,970- root - INFO] - Add route: Route(static,POST,path=/api/authenticate)
+[2017-11-13 16:03:11,970- root - INFO] - Add route: Route(static,GET,path=/)
+[2017-11-13 16:03:11,970- root - INFO] - Add route: Route(static,GET,path=/task_list)
+[2017-11-13 16:03:11,970- root - INFO] - Add route: Route(static,GET,path=/manage/comments)
+[2017-11-13 16:03:11,970- root - INFO] - Add route: Route(static,GET,path=/manage/)
+[2017-11-13 16:03:11,970- root - INFO] - Add route: Route(static,GET,path=/manage/users)
+[2017-11-13 16:03:11,970- root - INFO] - Add route: Route(static,GET,path=/register)
+[2017-11-13 16:03:11,970- root - INFO] - Add route: Route(static,POST,path=/api/users)
+[2017-11-13 16:03:11,970- root - INFO] - Add route: Route(static,GET,path=/signin)
+[2017-11-13 16:03:11,970- root - INFO] - Add route: Route(static,GET,path=/signout)
+[2017-11-13 16:03:11,970- root - INFO] - Add route: Route(static,GET,path=/stock)
+[2017-11-13 16:03:11,970- root - INFO] - Add route: Route(static,GET,path=/task_subimt)
+[2017-11-13 16:03:11,970- root - INFO] - Add route: Route(static,GET,path=/test)
+[2017-11-13 16:03:11,974- root - INFO] - application (/Users/hupeng/Downloads/gbd_spider/www) will start at 127.0.0.1:9001...
+[2017-11-13 16:03:25,826- root - INFO] - try to bind user from session cookie...
+[2017-11-13 16:03:25,826- root - INFO] - return Template
+[2017-11-13 16:03:25,891- root - INFO] - try to bind user from session cookie...
+[2017-11-13 16:03:25,892- root - INFO] - try to bind user from session cookie...
+[2017-11-13 16:03:25,893- root - INFO] - try to bind user from session cookie...
+[2017-11-13 16:03:25,894- root - INFO] - try to bind user from session cookie...
+[2017-11-13 16:03:25,894- root - INFO] - try to bind user from session cookie...
+[2017-11-13 16:03:25,895- root - INFO] - try to bind user from session cookie...
+[2017-11-13 16:03:25,896- root - INFO] - try to bind user from session cookie...
+[2017-11-13 16:03:25,901- root - INFO] - try to bind user from session cookie...
+[2017-11-13 16:03:25,945- root - INFO] - try to bind user from session cookie...
+[2017-11-13 16:03:26,308- root - INFO] - try to bind user from session cookie...

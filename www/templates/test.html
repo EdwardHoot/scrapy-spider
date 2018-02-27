@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Test users - Awesome Python Webapp</title>
+    <link rel="stylesheet" href="/static/css/uikit.min.css">
+    <link rel="stylesheet" href="/static/css/uikit.gradient.min.css">
+    <link rel="stylesheet" href="/static/css/gbd_spider.css" />
+    <script src="/static/js/jquery.min.js"></script>
+    <script src="/static/js/md5.js"></script>
+    <script src="/static/js/uikit.min.js"></script>
+    <script src="/static/js/sticky.min.js"></script>
+    <script src="/static/js/vue.min.js"></script>
+    <script src="/static/js/gbd_spider.js"></script>
+</head>
+<body>
+<h1>All users</h1>
+
+<a href="#modal-5" class="uk-button" onclick="jQuery.UIkit.modal.alert('ssss')">Open</a>
+
+
+<div id="modal-5" class="uk-modal">
+    <div class="uk-modal-dialog uk-modal-dialog-large">
+        <button type="button" class="uk-modal-close uk-close"></button>
+        <div class="uk-overflow-container">
+            <h2>日志详情</h2>
+            <table class="uk-table">
+                <thead>
+                <tr>
+                    <th>任务名称</th>
+                    <th>任务状态</th>
+                    <th>任务描述</th>
+                </tr>
+                </thead>
+                <tbody>
+                {% for task_log in task_logs %}
+                <tr>
+                    <td>{{task_log.task_id}}</td>
+                    <td>{{task_log.description}}</td>
+                    <td>{{task_log.running_task_status}}</td>
+                </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+</body>
+</html>

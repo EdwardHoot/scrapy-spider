@@ -1,0 +1,187 @@
+{% extends '__base__.html' %}
+
+{% block title %}任务日志{% endblock %}
+
+{% block beforehead %}
+
+<script>
+</script>
+
+{% endblock %}
+
+{% block content %}
+<div class="uk-grid" data-uk-grid-margin>
+    <div class="uk-width-medium-1-2">
+    <div class="uk-panel uk-panel-header uk-panel-box">
+    <h3 class="uk-panel-title">tushare数据获取</h3>
+
+
+    <div class="uk-block uk-block-muted">
+
+        <div class="uk-container">
+
+            <h4>股票数据</h4>
+
+            <div class="uk-grid uk-grid-match" data-uk-grid-margin>
+                <div class="uk-width-medium-1-3">
+                    <div class="uk-panel">
+                        <ul class="uk-list uk-list-line ">
+                            <li><button class="uk-button uk-button-primary" type="button" onclick="get_tushare_datas('fundamental_datas_history');">基本面数据(历史)</button>
+                            </li>
+                            <li><button class="uk-button uk-button-primary" type="button" onclick="get_tushare_datas('fundamental_datas_now');">基本面数据(当前)</button>
+                            </li>
+                            <li><button class="uk-button uk-button-primary" type="button" onclick="get_tushare_datas('stock_classification_datas');">股票分类数据</button>
+                            </li>
+                            <li><button class="uk-button uk-button-primary" type="button" onclick="get_tushare_datas('stock_deal_data');"> &nbsp;&nbsp;&nbsp; 交易数据 &nbsp;&nbsp; </button>
+                            </li>
+                            <li><button class="uk-button uk-button-primary" type="button" onclick="get_tushare_datas('stock_hist_data_multithreading');">交易数据(hist) </button>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <hr class="uk-article-divider">
+        <div class="uk-container">
+
+            <h4>期权数据</h4>
+
+            <div class="uk-grid uk-grid-match" data-uk-grid-margin>
+                <div class="uk-width-medium-1-3">
+                    <div class="uk-panel">
+                        <ul class="uk-list uk-list-line">
+                            <li><button class="uk-button uk-button-primary" type="button"> &nbsp;基本面数据 &nbsp;</button>
+                            </li>
+                            <li><button class="uk-button uk-button-primary" type="button">股票分类数据</button>
+                            </li>
+                            <li><button class="uk-button uk-button-primary" type="button"> &nbsp;&nbsp;&nbsp; 交易数据 &nbsp;&nbsp; </button>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="uk-width-medium-1-3">
+                    <div class="uk-panel">
+                        <ul class="uk-list uk-list-line">
+                            <li><button class="uk-button uk-button-primary" type="button"> &nbsp;基本面数据 &nbsp;</button>
+                            </li>
+                            <li><button class="uk-button uk-button-primary" type="button">股票分类数据</button>
+                            </li>
+                            <li><button class="uk-button uk-button-primary" type="button"> &nbsp;&nbsp;&nbsp; 交易数据 &nbsp;&nbsp; </button>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="uk-width-medium-1-3">
+                    <div class="uk-panel">
+                        <ul class="uk-list uk-list-line">
+                            <li><button class="uk-button uk-button-primary" type="button"> &nbsp;基本面数据 &nbsp;</button>
+                            </li>
+                            <li><button class="uk-button uk-button-primary" type="button">股票分类数据</button>
+                            </li>
+                            <li><button class="uk-button uk-button-primary" type="button"> &nbsp;&nbsp;&nbsp; 交易数据 &nbsp;&nbsp; </button>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+</div>
+</div>
+    <div class="uk-width-medium-1-2">
+        <div class="uk-panel uk-panel-header uk-panel-box">
+            <h3 class="uk-panel-title">网页数据抓取</h3>
+
+
+            <div class="uk-block uk-block-muted">
+
+                <div class="uk-container">
+
+                    <h4>新闻数据</h4>
+
+                    <div class="uk-grid uk-grid-match" data-uk-grid-margin>
+                        <div class="uk-width-medium-1-3">
+                            <div class="uk-panel">
+                                <ul class="uk-list uk-list-line ">
+                                    <li><button class="uk-button uk-button-primary" type="button"> &nbsp;基本面数据 &nbsp;</button>
+                                    </li>
+                                    <li><button class="uk-button uk-button-primary" type="button">股票分类数据</button>
+                                    </li>
+                                    <li><button class="uk-button uk-button-primary" type="button"> &nbsp;&nbsp;&nbsp; 交易数据 &nbsp;&nbsp; </button>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="uk-width-medium-1-3">
+                            <div class="uk-panel">
+                                <ul class="uk-list uk-list-line">
+                                    <li><button class="uk-button uk-button-primary" type="button"> &nbsp;基本面数据 &nbsp;</button>
+                                    </li>
+                                    <li><button class="uk-button uk-button-primary" type="button">股票分类数据</button>
+                                    </li>
+                                    <li><button class="uk-button uk-button-primary" type="button"> &nbsp;&nbsp;&nbsp; 交易数据 &nbsp;&nbsp; </button>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="uk-width-medium-1-3">
+                            <div class="uk-panel">
+                                <ul class="uk-list uk-list-line">
+                                    <li><button class="uk-button uk-button-primary" type="button"> &nbsp;基本面数据 &nbsp;</button>
+                                    </li>
+                                    <li><button class="uk-button uk-button-primary" type="button">股票分类数据</button>
+                                    </li>
+                                    <li><button class="uk-button uk-button-primary" type="button"> &nbsp;&nbsp;&nbsp; 交易数据 &nbsp;&nbsp; </button>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <hr class="uk-article-divider">
+
+                <div class="uk-container">
+
+                    <h4>担保数据</h4>
+
+                    <div class="uk-grid uk-grid-match" data-uk-grid-margin>
+                        <div class="uk-width-medium-1-3">
+                            <div class="uk-panel">
+                                <ul class="uk-list uk-list-line">
+                                    <li><button class="uk-button uk-button-primary" type="button" onclick="get_assurance_datas()">企业担保数据</button>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="uk-container">
+
+                    <h4>财经新闻数据</h4>
+
+                    <div class="uk-grid uk-grid-match" data-uk-grid-margin>
+                        <div class="uk-width-medium-1-3">
+                            <div class="uk-panel">
+                                <ul class="uk-list uk-list-line">
+                                    <li><button class="uk-button uk-button-primary" type="button" onclick="get_finance_news_datas()">财经门户网站数据</button>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+{% endblock %}

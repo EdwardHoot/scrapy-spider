@@ -1,0 +1,1239 @@
+[2017-09-07 12:27:19,712- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:27:19,714- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:27:19,714- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:27:19,715- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:27:19,945- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:27:19,946- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:27:19,946- root - INFO] - Add interceptor: <function user_interceptor at 0x108deaed8>
+[2017-09-07 12:27:19,946- root - INFO] - Add interceptor: <function manage_interceptor at 0x108dee0c8>
+[2017-09-07 12:27:19,946- root - INFO] - Add module: urls
+[2017-09-07 12:27:19,947- root - INFO] - Add route: Route(static,GET,path=/api/get_assurance_data)
+[2017-09-07 12:27:19,947- root - INFO] - Add route: Route(static,GET,path=/api/get_finance_news_data)
+[2017-09-07 12:27:19,947- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_history)
+[2017-09-07 12:27:19,947- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_now)
+[2017-09-07 12:27:19,947- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_classification_datas)
+[2017-09-07 12:27:19,947- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_deal_data)
+[2017-09-07 12:27:19,947- root - INFO] - Add route: Route(static,GET,path=/api/task_list)
+[2017-09-07 12:27:19,947- root - INFO] - Add route: Route(static,GET,path=/api/users)
+[2017-09-07 12:27:19,947- root - INFO] - Add route: Route(static,GET,path=/api/news_scheduler_start)
+[2017-09-07 12:27:19,947- root - INFO] - Add route: Route(static,GET,path=/api/scheduler_start)
+[2017-09-07 12:27:19,947- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_hist_data_multithreading)
+[2017-09-07 12:27:19,947- root - INFO] - Add route: Route(dynamic,GET,path=/api/task_logs/:task_name)
+[2017-09-07 12:27:19,947- root - INFO] - Add route: Route(static,POST,path=/api/authenticate)
+[2017-09-07 12:27:19,947- root - INFO] - Add route: Route(static,GET,path=/)
+[2017-09-07 12:27:19,947- root - INFO] - Add route: Route(static,GET,path=/task_list)
+[2017-09-07 12:27:19,947- root - INFO] - Add route: Route(static,GET,path=/manage/comments)
+[2017-09-07 12:27:19,947- root - INFO] - Add route: Route(static,GET,path=/manage/)
+[2017-09-07 12:27:19,947- root - INFO] - Add route: Route(static,GET,path=/manage/users)
+[2017-09-07 12:27:19,947- root - INFO] - Add route: Route(static,GET,path=/register)
+[2017-09-07 12:27:19,947- root - INFO] - Add route: Route(static,POST,path=/api/users)
+[2017-09-07 12:27:19,947- root - INFO] - Add route: Route(static,GET,path=/signin)
+[2017-09-07 12:27:19,947- root - INFO] - Add route: Route(static,GET,path=/signout)
+[2017-09-07 12:27:19,948- root - INFO] - Add route: Route(static,GET,path=/stock)
+[2017-09-07 12:27:19,948- root - INFO] - Add route: Route(static,GET,path=/task_subimt)
+[2017-09-07 12:27:19,948- root - INFO] - Add route: Route(static,GET,path=/test)
+[2017-09-07 12:27:19,952- root - INFO] - application (/Users/hupeng/Downloads/gbd_spider/www) will start at 127.0.0.1:9000...
+[2017-09-07 12:27:31,181- root - INFO] - try to bind user from session cookie...
+[2017-09-07 12:27:31,182- root - INFO] - return Template
+[2017-09-07 12:27:31,225- root - INFO] - try to bind user from session cookie...
+[2017-09-07 12:27:31,227- root - INFO] - try to bind user from session cookie...
+[2017-09-07 12:27:31,229- root - INFO] - try to bind user from session cookie...
+[2017-09-07 12:27:31,231- root - INFO] - try to bind user from session cookie...
+[2017-09-07 12:27:31,232- root - INFO] - try to bind user from session cookie...
+[2017-09-07 12:27:31,233- root - INFO] - try to bind user from session cookie...
+[2017-09-07 12:27:31,234- root - INFO] - try to bind user from session cookie...
+[2017-09-07 12:27:31,235- root - INFO] - try to bind user from session cookie...
+[2017-09-07 12:27:31,281- root - INFO] - try to bind user from session cookie...
+[2017-09-07 12:27:31,535- root - INFO] - try to bind user from session cookie...
+[2017-09-07 12:27:46,978- root - INFO] - try to bind user from session cookie...
+[2017-09-07 12:27:47,980- root - INFO] - 合并中。。。
+[2017-09-07 12:27:47,980- root - INFO] - 合并完成
+[2017-09-07 12:27:47,982- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'post_url', 'key': 'url'}
+[2017-09-07 12:27:47,982- service.utils.tushare_data_util - INFO] - http://localhost:8080/gbd-gface-spider/gbdgfaceFilePost.do?file_path=/Users/hupeng/Downloads/gbd_spider/www/service/news/files/20170907.zip&file_name=20170907
+[2017-09-07 12:27:47,989- root - ERROR] - <urlopen error [Errno 61] Connection refused>
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 338, in api_get_finance_news_data
+    upload_daily_files()
+  File "/Users/hupeng/Downloads/gbd_spider/www/service/utils/tushare_data_util.py", line 114, in upload_daily_files
+    res_data = urllib2.urlopen(req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 61] Connection refused>
+[2017-09-07 12:29:32,838- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:29:32,838- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:29:32,839- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:29:32,839- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:29:33,039- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:29:33,040- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:29:33,041- root - INFO] - Add interceptor: <function user_interceptor at 0x108d35ed8>
+[2017-09-07 12:29:33,041- root - INFO] - Add interceptor: <function manage_interceptor at 0x108d400c8>
+[2017-09-07 12:29:33,041- root - INFO] - Add module: urls
+[2017-09-07 12:29:33,041- root - INFO] - Add route: Route(static,GET,path=/api/get_assurance_data)
+[2017-09-07 12:29:33,041- root - INFO] - Add route: Route(static,GET,path=/api/get_finance_news_data)
+[2017-09-07 12:29:33,041- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_history)
+[2017-09-07 12:29:33,041- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_now)
+[2017-09-07 12:29:33,041- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_classification_datas)
+[2017-09-07 12:29:33,041- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_deal_data)
+[2017-09-07 12:29:33,041- root - INFO] - Add route: Route(static,GET,path=/api/task_list)
+[2017-09-07 12:29:33,041- root - INFO] - Add route: Route(static,GET,path=/api/users)
+[2017-09-07 12:29:33,041- root - INFO] - Add route: Route(static,GET,path=/api/news_scheduler_start)
+[2017-09-07 12:29:33,041- root - INFO] - Add route: Route(static,GET,path=/api/scheduler_start)
+[2017-09-07 12:29:33,041- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_hist_data_multithreading)
+[2017-09-07 12:29:33,042- root - INFO] - Add route: Route(dynamic,GET,path=/api/task_logs/:task_name)
+[2017-09-07 12:29:33,042- root - INFO] - Add route: Route(static,POST,path=/api/authenticate)
+[2017-09-07 12:29:33,042- root - INFO] - Add route: Route(static,GET,path=/)
+[2017-09-07 12:29:33,042- root - INFO] - Add route: Route(static,GET,path=/task_list)
+[2017-09-07 12:29:33,042- root - INFO] - Add route: Route(static,GET,path=/manage/comments)
+[2017-09-07 12:29:33,042- root - INFO] - Add route: Route(static,GET,path=/manage/)
+[2017-09-07 12:29:33,042- root - INFO] - Add route: Route(static,GET,path=/manage/users)
+[2017-09-07 12:29:33,042- root - INFO] - Add route: Route(static,GET,path=/register)
+[2017-09-07 12:29:33,042- root - INFO] - Add route: Route(static,POST,path=/api/users)
+[2017-09-07 12:29:33,042- root - INFO] - Add route: Route(static,GET,path=/signin)
+[2017-09-07 12:29:33,042- root - INFO] - Add route: Route(static,GET,path=/signout)
+[2017-09-07 12:29:33,042- root - INFO] - Add route: Route(static,GET,path=/stock)
+[2017-09-07 12:29:33,042- root - INFO] - Add route: Route(static,GET,path=/task_subimt)
+[2017-09-07 12:29:33,042- root - INFO] - Add route: Route(static,GET,path=/test)
+[2017-09-07 12:29:33,045- root - INFO] - application (/Users/hupeng/Downloads/gbd_spider/www) will start at 127.0.0.1:9000...
+[2017-09-07 12:29:35,438- root - INFO] - try to bind user from session cookie...
+[2017-09-07 12:29:36,236- root - INFO] - 合并中。。。
+[2017-09-07 12:29:36,236- root - INFO] - 合并完成
+[2017-09-07 12:29:36,237- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'post_url', 'key': 'url'}
+[2017-09-07 12:29:36,238- service.utils.tushare_data_util - INFO] - http://localhost:8080/gbd-gface-spider/gbdgfaceFilePost.do?file_path=/Users/hupeng/Downloads/gbd_spider/www/service/news/files/20170907.zip&file_name=20170907
+[2017-09-07 12:29:36,246- root - ERROR] - <urlopen error [Errno 61] Connection refused>
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 338, in api_get_finance_news_data
+    upload_daily_files()
+  File "/Users/hupeng/Downloads/gbd_spider/www/service/utils/tushare_data_util.py", line 114, in upload_daily_files
+    res_data = urllib2.urlopen(req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 61] Connection refused>
+[2017-09-07 12:35:10,511- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:35:10,511- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:35:10,511- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:35:10,512- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:35:10,690- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:35:10,691- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:35:10,692- root - INFO] - Add interceptor: <function user_interceptor at 0x108d54ed8>
+[2017-09-07 12:35:10,693- root - INFO] - Add interceptor: <function manage_interceptor at 0x108d5f0c8>
+[2017-09-07 12:35:10,693- root - INFO] - Add module: urls
+[2017-09-07 12:35:10,693- root - INFO] - Add route: Route(static,GET,path=/api/get_assurance_data)
+[2017-09-07 12:35:10,693- root - INFO] - Add route: Route(static,GET,path=/api/get_finance_news_data)
+[2017-09-07 12:35:10,693- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_history)
+[2017-09-07 12:35:10,693- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_now)
+[2017-09-07 12:35:10,693- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_classification_datas)
+[2017-09-07 12:35:10,693- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_deal_data)
+[2017-09-07 12:35:10,693- root - INFO] - Add route: Route(static,GET,path=/api/task_list)
+[2017-09-07 12:35:10,693- root - INFO] - Add route: Route(static,GET,path=/api/users)
+[2017-09-07 12:35:10,693- root - INFO] - Add route: Route(static,GET,path=/api/news_scheduler_start)
+[2017-09-07 12:35:10,693- root - INFO] - Add route: Route(static,GET,path=/api/scheduler_start)
+[2017-09-07 12:35:10,693- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_hist_data_multithreading)
+[2017-09-07 12:35:10,693- root - INFO] - Add route: Route(dynamic,GET,path=/api/task_logs/:task_name)
+[2017-09-07 12:35:10,693- root - INFO] - Add route: Route(static,POST,path=/api/authenticate)
+[2017-09-07 12:35:10,693- root - INFO] - Add route: Route(static,GET,path=/)
+[2017-09-07 12:35:10,694- root - INFO] - Add route: Route(static,GET,path=/task_list)
+[2017-09-07 12:35:10,694- root - INFO] - Add route: Route(static,GET,path=/manage/comments)
+[2017-09-07 12:35:10,694- root - INFO] - Add route: Route(static,GET,path=/manage/)
+[2017-09-07 12:35:10,694- root - INFO] - Add route: Route(static,GET,path=/manage/users)
+[2017-09-07 12:35:10,694- root - INFO] - Add route: Route(static,GET,path=/register)
+[2017-09-07 12:35:10,694- root - INFO] - Add route: Route(static,POST,path=/api/users)
+[2017-09-07 12:35:10,694- root - INFO] - Add route: Route(static,GET,path=/signin)
+[2017-09-07 12:35:10,694- root - INFO] - Add route: Route(static,GET,path=/signout)
+[2017-09-07 12:35:10,694- root - INFO] - Add route: Route(static,GET,path=/stock)
+[2017-09-07 12:35:10,694- root - INFO] - Add route: Route(static,GET,path=/task_subimt)
+[2017-09-07 12:35:10,694- root - INFO] - Add route: Route(static,GET,path=/test)
+[2017-09-07 12:35:10,695- root - INFO] - application (/Users/hupeng/Downloads/gbd_spider/www) will start at 127.0.0.1:9000...
+[2017-09-07 12:35:13,946- root - INFO] - try to bind user from session cookie...
+[2017-09-07 12:35:15,209- root - INFO] - 合并中。。。
+[2017-09-07 12:35:15,210- root - INFO] - 合并完成
+[2017-09-07 12:35:15,211- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'post_url', 'key': 'url'}
+[2017-09-07 12:35:15,211- service.utils.tushare_data_util - INFO] - http://localhost:8080/gbd-gface-spider/gbdgfaceFilePost.do?file_path=/Users/hupeng/Downloads/gbd_spider/www/service/news/files/20170907.zip&file_name=20170907
+[2017-09-07 12:35:15,217- root - ERROR] - <urlopen error [Errno 61] Connection refused>
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 338, in api_get_finance_news_data
+    upload_daily_files()
+  File "/Users/hupeng/Downloads/gbd_spider/www/service/utils/tushare_data_util.py", line 114, in upload_daily_files
+    res_data = urllib2.urlopen(req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 61] Connection refused>
+[2017-09-07 12:37:06,368- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:37:06,369- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:37:06,369- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:37:06,370- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:37:06,555- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:37:06,555- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:37:06,556- root - INFO] - Add interceptor: <function user_interceptor at 0x108e5fed8>
+[2017-09-07 12:37:06,556- root - INFO] - Add interceptor: <function manage_interceptor at 0x108e6a0c8>
+[2017-09-07 12:37:06,556- root - INFO] - Add module: urls
+[2017-09-07 12:37:06,556- root - INFO] - Add route: Route(static,GET,path=/api/get_assurance_data)
+[2017-09-07 12:37:06,556- root - INFO] - Add route: Route(static,GET,path=/api/get_finance_news_data)
+[2017-09-07 12:37:06,556- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_history)
+[2017-09-07 12:37:06,556- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_now)
+[2017-09-07 12:37:06,556- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_classification_datas)
+[2017-09-07 12:37:06,556- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_deal_data)
+[2017-09-07 12:37:06,556- root - INFO] - Add route: Route(static,GET,path=/api/task_list)
+[2017-09-07 12:37:06,556- root - INFO] - Add route: Route(static,GET,path=/api/users)
+[2017-09-07 12:37:06,556- root - INFO] - Add route: Route(static,GET,path=/api/news_scheduler_start)
+[2017-09-07 12:37:06,557- root - INFO] - Add route: Route(static,GET,path=/api/scheduler_start)
+[2017-09-07 12:37:06,557- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_hist_data_multithreading)
+[2017-09-07 12:37:06,557- root - INFO] - Add route: Route(dynamic,GET,path=/api/task_logs/:task_name)
+[2017-09-07 12:37:06,557- root - INFO] - Add route: Route(static,POST,path=/api/authenticate)
+[2017-09-07 12:37:06,557- root - INFO] - Add route: Route(static,GET,path=/)
+[2017-09-07 12:37:06,557- root - INFO] - Add route: Route(static,GET,path=/task_list)
+[2017-09-07 12:37:06,557- root - INFO] - Add route: Route(static,GET,path=/manage/comments)
+[2017-09-07 12:37:06,557- root - INFO] - Add route: Route(static,GET,path=/manage/)
+[2017-09-07 12:37:06,557- root - INFO] - Add route: Route(static,GET,path=/manage/users)
+[2017-09-07 12:37:06,557- root - INFO] - Add route: Route(static,GET,path=/register)
+[2017-09-07 12:37:06,557- root - INFO] - Add route: Route(static,POST,path=/api/users)
+[2017-09-07 12:37:06,557- root - INFO] - Add route: Route(static,GET,path=/signin)
+[2017-09-07 12:37:06,557- root - INFO] - Add route: Route(static,GET,path=/signout)
+[2017-09-07 12:37:06,557- root - INFO] - Add route: Route(static,GET,path=/stock)
+[2017-09-07 12:37:06,557- root - INFO] - Add route: Route(static,GET,path=/task_subimt)
+[2017-09-07 12:37:06,557- root - INFO] - Add route: Route(static,GET,path=/test)
+[2017-09-07 12:37:06,559- root - INFO] - application (/Users/hupeng/Downloads/gbd_spider/www) will start at 127.0.0.1:9000...
+[2017-09-07 12:37:09,641- root - INFO] - try to bind user from session cookie...
+[2017-09-07 12:37:10,923- root - INFO] - 合并中。。。
+[2017-09-07 12:37:10,923- root - INFO] - 合并完成
+[2017-09-07 12:37:10,924- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'post_url', 'key': 'url'}
+[2017-09-07 12:37:10,924- service.utils.tushare_data_util - INFO] - http://localhost:8080/gbd-gface-spider/gbdgfaceFilePost.do?file_path=/Users/hupeng/Downloads/gbd_spider/www/service/news/files/20170907.zip&file_name=20170907
+[2017-09-07 12:37:10,931- root - ERROR] - <urlopen error [Errno 61] Connection refused>
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 338, in api_get_finance_news_data
+    upload_daily_files()
+  File "/Users/hupeng/Downloads/gbd_spider/www/service/utils/tushare_data_util.py", line 114, in upload_daily_files
+    res_data = urllib2.urlopen(req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 61] Connection refused>
+[2017-09-07 12:37:56,700- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:37:56,700- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:37:56,700- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:37:56,701- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:37:56,881- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:37:56,882- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 12:37:56,883- root - INFO] - Add interceptor: <function user_interceptor at 0x108d54ed8>
+[2017-09-07 12:37:56,883- root - INFO] - Add interceptor: <function manage_interceptor at 0x108d5f0c8>
+[2017-09-07 12:37:56,883- root - INFO] - Add module: urls
+[2017-09-07 12:37:56,883- root - INFO] - Add route: Route(static,GET,path=/api/get_assurance_data)
+[2017-09-07 12:37:56,883- root - INFO] - Add route: Route(static,GET,path=/api/get_finance_news_data)
+[2017-09-07 12:37:56,883- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_history)
+[2017-09-07 12:37:56,883- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_now)
+[2017-09-07 12:37:56,883- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_classification_datas)
+[2017-09-07 12:37:56,883- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_deal_data)
+[2017-09-07 12:37:56,883- root - INFO] - Add route: Route(static,GET,path=/api/task_list)
+[2017-09-07 12:37:56,884- root - INFO] - Add route: Route(static,GET,path=/api/users)
+[2017-09-07 12:37:56,884- root - INFO] - Add route: Route(static,GET,path=/api/news_scheduler_start)
+[2017-09-07 12:37:56,884- root - INFO] - Add route: Route(static,GET,path=/api/scheduler_start)
+[2017-09-07 12:37:56,884- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_hist_data_multithreading)
+[2017-09-07 12:37:56,884- root - INFO] - Add route: Route(dynamic,GET,path=/api/task_logs/:task_name)
+[2017-09-07 12:37:56,884- root - INFO] - Add route: Route(static,POST,path=/api/authenticate)
+[2017-09-07 12:37:56,884- root - INFO] - Add route: Route(static,GET,path=/)
+[2017-09-07 12:37:56,884- root - INFO] - Add route: Route(static,GET,path=/task_list)
+[2017-09-07 12:37:56,884- root - INFO] - Add route: Route(static,GET,path=/manage/comments)
+[2017-09-07 12:37:56,884- root - INFO] - Add route: Route(static,GET,path=/manage/)
+[2017-09-07 12:37:56,884- root - INFO] - Add route: Route(static,GET,path=/manage/users)
+[2017-09-07 12:37:56,884- root - INFO] - Add route: Route(static,GET,path=/register)
+[2017-09-07 12:37:56,884- root - INFO] - Add route: Route(static,POST,path=/api/users)
+[2017-09-07 12:37:56,884- root - INFO] - Add route: Route(static,GET,path=/signin)
+[2017-09-07 12:37:56,884- root - INFO] - Add route: Route(static,GET,path=/signout)
+[2017-09-07 12:37:56,884- root - INFO] - Add route: Route(static,GET,path=/stock)
+[2017-09-07 12:37:56,884- root - INFO] - Add route: Route(static,GET,path=/task_subimt)
+[2017-09-07 12:37:56,885- root - INFO] - Add route: Route(static,GET,path=/test)
+[2017-09-07 12:37:56,886- root - INFO] - application (/Users/hupeng/Downloads/gbd_spider/www) will start at 127.0.0.1:9000...
+[2017-09-07 12:37:59,620- root - INFO] - try to bind user from session cookie...
+[2017-09-07 12:39:52,028- root - INFO] - 合并中。。。
+[2017-09-07 12:39:52,028- root - INFO] - 合并完成
+[2017-09-07 12:39:52,029- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'post_url', 'key': 'url'}
+[2017-09-07 12:39:52,029- service.utils.tushare_data_util - INFO] - http://localhost:8080/gbd-gface-spider/gbdgfaceFilePost.do?file_path=/Users/hupeng/Downloads/gbd_spider/www/service/news/files/20170907.zip&file_name=20170907
+[2017-09-07 12:39:52,037- root - ERROR] - <urlopen error [Errno 61] Connection refused>
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 338, in api_get_finance_news_data
+    upload_daily_files()
+  File "/Users/hupeng/Downloads/gbd_spider/www/service/utils/tushare_data_util.py", line 114, in upload_daily_files
+    res_data = urllib2.urlopen(req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 61] Connection refused>
+[2017-09-07 13:02:11,976- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:02:11,977- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:02:11,977- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:02:11,978- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:02:12,215- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:02:12,216- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:02:12,217- root - INFO] - Add interceptor: <function user_interceptor at 0x108bb5ed8>
+[2017-09-07 13:02:12,217- root - INFO] - Add interceptor: <function manage_interceptor at 0x108bc00c8>
+[2017-09-07 13:02:12,217- root - INFO] - Add module: urls
+[2017-09-07 13:02:12,217- root - INFO] - Add route: Route(static,GET,path=/api/get_assurance_data)
+[2017-09-07 13:02:12,217- root - INFO] - Add route: Route(static,GET,path=/api/get_finance_news_data)
+[2017-09-07 13:02:12,217- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_history)
+[2017-09-07 13:02:12,217- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_now)
+[2017-09-07 13:02:12,217- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_classification_datas)
+[2017-09-07 13:02:12,217- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_deal_data)
+[2017-09-07 13:02:12,217- root - INFO] - Add route: Route(static,GET,path=/api/task_list)
+[2017-09-07 13:02:12,217- root - INFO] - Add route: Route(static,GET,path=/api/users)
+[2017-09-07 13:02:12,218- root - INFO] - Add route: Route(static,GET,path=/api/news_scheduler_start)
+[2017-09-07 13:02:12,218- root - INFO] - Add route: Route(static,GET,path=/api/scheduler_start)
+[2017-09-07 13:02:12,218- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_hist_data_multithreading)
+[2017-09-07 13:02:12,218- root - INFO] - Add route: Route(dynamic,GET,path=/api/task_logs/:task_name)
+[2017-09-07 13:02:12,218- root - INFO] - Add route: Route(static,POST,path=/api/authenticate)
+[2017-09-07 13:02:12,218- root - INFO] - Add route: Route(static,GET,path=/)
+[2017-09-07 13:02:12,218- root - INFO] - Add route: Route(static,GET,path=/task_list)
+[2017-09-07 13:02:12,218- root - INFO] - Add route: Route(static,GET,path=/manage/comments)
+[2017-09-07 13:02:12,218- root - INFO] - Add route: Route(static,GET,path=/manage/)
+[2017-09-07 13:02:12,218- root - INFO] - Add route: Route(static,GET,path=/manage/users)
+[2017-09-07 13:02:12,218- root - INFO] - Add route: Route(static,GET,path=/register)
+[2017-09-07 13:02:12,218- root - INFO] - Add route: Route(static,POST,path=/api/users)
+[2017-09-07 13:02:12,218- root - INFO] - Add route: Route(static,GET,path=/signin)
+[2017-09-07 13:02:12,218- root - INFO] - Add route: Route(static,GET,path=/signout)
+[2017-09-07 13:02:12,218- root - INFO] - Add route: Route(static,GET,path=/stock)
+[2017-09-07 13:02:12,219- root - INFO] - Add route: Route(static,GET,path=/task_subimt)
+[2017-09-07 13:02:12,219- root - INFO] - Add route: Route(static,GET,path=/test)
+[2017-09-07 13:02:12,223- root - INFO] - application (/Users/hupeng/Downloads/gbd_spider/www) will start at 127.0.0.1:9000...
+[2017-09-07 13:02:17,177- root - INFO] - try to bind user from session cookie...
+[2017-09-07 13:02:18,076- root - INFO] - 合并中。。。
+[2017-09-07 13:02:18,076- root - INFO] - 合并完成
+[2017-09-07 13:02:18,077- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'post_url', 'key': 'url'}
+[2017-09-07 13:02:18,077- service.utils.tushare_data_util - INFO] - http://localhost:8080/gbd-gface-spider/gbdgfaceFilePost.do?file_path=/Users/hupeng/Downloads/gbd_spider/www/service/news/files/20170907.zip&file_name=20170907
+[2017-09-07 13:02:18,084- root - ERROR] - <urlopen error [Errno 61] Connection refused>
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 338, in api_get_finance_news_data
+    upload_daily_files()
+  File "/Users/hupeng/Downloads/gbd_spider/www/service/utils/tushare_data_util.py", line 114, in upload_daily_files
+    res_data = urllib2.urlopen(req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 61] Connection refused>
+[2017-09-07 13:03:42,654- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:03:42,654- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:03:42,655- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:03:42,655- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:03:42,851- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:03:42,852- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:03:42,852- root - INFO] - Add interceptor: <function user_interceptor at 0x108de5ed8>
+[2017-09-07 13:03:42,852- root - INFO] - Add interceptor: <function manage_interceptor at 0x108df00c8>
+[2017-09-07 13:03:42,853- root - INFO] - Add module: urls
+[2017-09-07 13:03:42,853- root - INFO] - Add route: Route(static,GET,path=/api/get_assurance_data)
+[2017-09-07 13:03:42,853- root - INFO] - Add route: Route(static,GET,path=/api/get_finance_news_data)
+[2017-09-07 13:03:42,853- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_history)
+[2017-09-07 13:03:42,853- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_now)
+[2017-09-07 13:03:42,853- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_classification_datas)
+[2017-09-07 13:03:42,853- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_deal_data)
+[2017-09-07 13:03:42,853- root - INFO] - Add route: Route(static,GET,path=/api/task_list)
+[2017-09-07 13:03:42,853- root - INFO] - Add route: Route(static,GET,path=/api/users)
+[2017-09-07 13:03:42,853- root - INFO] - Add route: Route(static,GET,path=/api/news_scheduler_start)
+[2017-09-07 13:03:42,853- root - INFO] - Add route: Route(static,GET,path=/api/scheduler_start)
+[2017-09-07 13:03:42,853- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_hist_data_multithreading)
+[2017-09-07 13:03:42,853- root - INFO] - Add route: Route(dynamic,GET,path=/api/task_logs/:task_name)
+[2017-09-07 13:03:42,853- root - INFO] - Add route: Route(static,POST,path=/api/authenticate)
+[2017-09-07 13:03:42,854- root - INFO] - Add route: Route(static,GET,path=/)
+[2017-09-07 13:03:42,854- root - INFO] - Add route: Route(static,GET,path=/task_list)
+[2017-09-07 13:03:42,854- root - INFO] - Add route: Route(static,GET,path=/manage/comments)
+[2017-09-07 13:03:42,854- root - INFO] - Add route: Route(static,GET,path=/manage/)
+[2017-09-07 13:03:42,854- root - INFO] - Add route: Route(static,GET,path=/manage/users)
+[2017-09-07 13:03:42,854- root - INFO] - Add route: Route(static,GET,path=/register)
+[2017-09-07 13:03:42,854- root - INFO] - Add route: Route(static,POST,path=/api/users)
+[2017-09-07 13:03:42,854- root - INFO] - Add route: Route(static,GET,path=/signin)
+[2017-09-07 13:03:42,854- root - INFO] - Add route: Route(static,GET,path=/signout)
+[2017-09-07 13:03:42,854- root - INFO] - Add route: Route(static,GET,path=/stock)
+[2017-09-07 13:03:42,854- root - INFO] - Add route: Route(static,GET,path=/task_subimt)
+[2017-09-07 13:03:42,854- root - INFO] - Add route: Route(static,GET,path=/test)
+[2017-09-07 13:03:42,856- root - INFO] - application (/Users/hupeng/Downloads/gbd_spider/www) will start at 127.0.0.1:9000...
+[2017-09-07 13:03:47,928- root - INFO] - try to bind user from session cookie...
+[2017-09-07 13:03:51,579- root - INFO] - 合并中。。。
+[2017-09-07 13:03:51,579- root - INFO] - 合并完成
+[2017-09-07 13:03:51,580- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'post_url', 'key': 'url'}
+[2017-09-07 13:03:51,580- service.utils.tushare_data_util - INFO] - http://localhost:8080/gbd-gface-spider/gbdgfaceFilePost.do?file_path=/Users/hupeng/Downloads/gbd_spider/www/service/news/files/20170907.zip&file_name=20170907
+[2017-09-07 13:03:51,590- root - ERROR] - <urlopen error [Errno 61] Connection refused>
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 338, in api_get_finance_news_data
+    upload_daily_files()
+  File "/Users/hupeng/Downloads/gbd_spider/www/service/utils/tushare_data_util.py", line 114, in upload_daily_files
+    res_data = urllib2.urlopen(req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 61] Connection refused>
+[2017-09-07 13:04:20,314- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:04:20,314- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:04:20,315- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:04:20,315- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:04:20,495- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:04:20,495- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:04:20,496- root - INFO] - Add interceptor: <function user_interceptor at 0x108e9fed8>
+[2017-09-07 13:04:20,496- root - INFO] - Add interceptor: <function manage_interceptor at 0x108eaa0c8>
+[2017-09-07 13:04:20,496- root - INFO] - Add module: urls
+[2017-09-07 13:04:20,496- root - INFO] - Add route: Route(static,GET,path=/api/get_assurance_data)
+[2017-09-07 13:04:20,496- root - INFO] - Add route: Route(static,GET,path=/api/get_finance_news_data)
+[2017-09-07 13:04:20,496- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_history)
+[2017-09-07 13:04:20,496- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_now)
+[2017-09-07 13:04:20,497- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_classification_datas)
+[2017-09-07 13:04:20,497- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_deal_data)
+[2017-09-07 13:04:20,497- root - INFO] - Add route: Route(static,GET,path=/api/task_list)
+[2017-09-07 13:04:20,497- root - INFO] - Add route: Route(static,GET,path=/api/users)
+[2017-09-07 13:04:20,497- root - INFO] - Add route: Route(static,GET,path=/api/news_scheduler_start)
+[2017-09-07 13:04:20,497- root - INFO] - Add route: Route(static,GET,path=/api/scheduler_start)
+[2017-09-07 13:04:20,497- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_hist_data_multithreading)
+[2017-09-07 13:04:20,497- root - INFO] - Add route: Route(dynamic,GET,path=/api/task_logs/:task_name)
+[2017-09-07 13:04:20,497- root - INFO] - Add route: Route(static,POST,path=/api/authenticate)
+[2017-09-07 13:04:20,497- root - INFO] - Add route: Route(static,GET,path=/)
+[2017-09-07 13:04:20,497- root - INFO] - Add route: Route(static,GET,path=/task_list)
+[2017-09-07 13:04:20,497- root - INFO] - Add route: Route(static,GET,path=/manage/comments)
+[2017-09-07 13:04:20,498- root - INFO] - Add route: Route(static,GET,path=/manage/)
+[2017-09-07 13:04:20,498- root - INFO] - Add route: Route(static,GET,path=/manage/users)
+[2017-09-07 13:04:20,498- root - INFO] - Add route: Route(static,GET,path=/register)
+[2017-09-07 13:04:20,498- root - INFO] - Add route: Route(static,POST,path=/api/users)
+[2017-09-07 13:04:20,498- root - INFO] - Add route: Route(static,GET,path=/signin)
+[2017-09-07 13:04:20,498- root - INFO] - Add route: Route(static,GET,path=/signout)
+[2017-09-07 13:04:20,498- root - INFO] - Add route: Route(static,GET,path=/stock)
+[2017-09-07 13:04:20,498- root - INFO] - Add route: Route(static,GET,path=/task_subimt)
+[2017-09-07 13:04:20,498- root - INFO] - Add route: Route(static,GET,path=/test)
+[2017-09-07 13:04:20,499- root - INFO] - application (/Users/hupeng/Downloads/gbd_spider/www) will start at 127.0.0.1:9000...
+[2017-09-07 13:04:22,353- root - INFO] - try to bind user from session cookie...
+[2017-09-07 13:04:22,974- root - INFO] - 合并中。。。
+[2017-09-07 13:04:22,975- root - INFO] - 合并完成
+[2017-09-07 13:04:22,975- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'post_url', 'key': 'url'}
+[2017-09-07 13:04:22,975- service.utils.tushare_data_util - INFO] - http://localhost:8080/gbd-gface-spider/gbdgfaceFilePost.do?file_path=/Users/hupeng/Downloads/gbd_spider/www/service/news/files/20170907.zip&file_name=20170907
+[2017-09-07 13:04:22,982- root - ERROR] - <urlopen error [Errno 61] Connection refused>
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 338, in api_get_finance_news_data
+    upload_daily_files()
+  File "/Users/hupeng/Downloads/gbd_spider/www/service/utils/tushare_data_util.py", line 114, in upload_daily_files
+    res_data = urllib2.urlopen(req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 61] Connection refused>
+[2017-09-07 13:05:54,097- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:05:54,097- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:05:54,098- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:05:54,099- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:05:54,281- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:05:54,282- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:05:54,283- root - INFO] - Add interceptor: <function user_interceptor at 0x108d54ed8>
+[2017-09-07 13:05:54,283- root - INFO] - Add interceptor: <function manage_interceptor at 0x108d5f0c8>
+[2017-09-07 13:05:54,283- root - INFO] - Add module: urls
+[2017-09-07 13:05:54,283- root - INFO] - Add route: Route(static,GET,path=/api/get_assurance_data)
+[2017-09-07 13:05:54,283- root - INFO] - Add route: Route(static,GET,path=/api/get_finance_news_data)
+[2017-09-07 13:05:54,283- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_history)
+[2017-09-07 13:05:54,283- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_now)
+[2017-09-07 13:05:54,283- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_classification_datas)
+[2017-09-07 13:05:54,283- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_deal_data)
+[2017-09-07 13:05:54,283- root - INFO] - Add route: Route(static,GET,path=/api/task_list)
+[2017-09-07 13:05:54,283- root - INFO] - Add route: Route(static,GET,path=/api/users)
+[2017-09-07 13:05:54,283- root - INFO] - Add route: Route(static,GET,path=/api/news_scheduler_start)
+[2017-09-07 13:05:54,283- root - INFO] - Add route: Route(static,GET,path=/api/scheduler_start)
+[2017-09-07 13:05:54,283- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_hist_data_multithreading)
+[2017-09-07 13:05:54,284- root - INFO] - Add route: Route(dynamic,GET,path=/api/task_logs/:task_name)
+[2017-09-07 13:05:54,284- root - INFO] - Add route: Route(static,POST,path=/api/authenticate)
+[2017-09-07 13:05:54,284- root - INFO] - Add route: Route(static,GET,path=/)
+[2017-09-07 13:05:54,284- root - INFO] - Add route: Route(static,GET,path=/task_list)
+[2017-09-07 13:05:54,284- root - INFO] - Add route: Route(static,GET,path=/manage/comments)
+[2017-09-07 13:05:54,284- root - INFO] - Add route: Route(static,GET,path=/manage/)
+[2017-09-07 13:05:54,284- root - INFO] - Add route: Route(static,GET,path=/manage/users)
+[2017-09-07 13:05:54,284- root - INFO] - Add route: Route(static,GET,path=/register)
+[2017-09-07 13:05:54,284- root - INFO] - Add route: Route(static,POST,path=/api/users)
+[2017-09-07 13:05:54,284- root - INFO] - Add route: Route(static,GET,path=/signin)
+[2017-09-07 13:05:54,284- root - INFO] - Add route: Route(static,GET,path=/signout)
+[2017-09-07 13:05:54,284- root - INFO] - Add route: Route(static,GET,path=/stock)
+[2017-09-07 13:05:54,284- root - INFO] - Add route: Route(static,GET,path=/task_subimt)
+[2017-09-07 13:05:54,284- root - INFO] - Add route: Route(static,GET,path=/test)
+[2017-09-07 13:05:54,286- root - INFO] - application (/Users/hupeng/Downloads/gbd_spider/www) will start at 127.0.0.1:9000...
+[2017-09-07 13:05:58,971- root - INFO] - try to bind user from session cookie...
+[2017-09-07 13:05:59,718- root - INFO] - 合并中。。。
+[2017-09-07 13:05:59,718- root - INFO] - 合并完成
+[2017-09-07 13:05:59,719- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'post_url', 'key': 'url'}
+[2017-09-07 13:05:59,720- service.utils.tushare_data_util - INFO] - http://localhost:8080/gbd-gface-spider/gbdgfaceFilePost.do?file_path=/Users/hupeng/Downloads/gbd_spider/www/service/news/files/20170907.zip&file_name=20170907
+[2017-09-07 13:05:59,726- root - ERROR] - <urlopen error [Errno 61] Connection refused>
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 338, in api_get_finance_news_data
+    upload_daily_files()
+  File "/Users/hupeng/Downloads/gbd_spider/www/service/utils/tushare_data_util.py", line 114, in upload_daily_files
+    res_data = urllib2.urlopen(req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 61] Connection refused>
+[2017-09-07 13:06:20,699- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:06:20,700- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:06:20,700- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:06:20,701- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:06:20,889- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:06:20,889- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:06:20,890- root - INFO] - Add interceptor: <function user_interceptor at 0x108d64ed8>
+[2017-09-07 13:06:20,890- root - INFO] - Add interceptor: <function manage_interceptor at 0x108d6f0c8>
+[2017-09-07 13:06:20,890- root - INFO] - Add module: urls
+[2017-09-07 13:06:20,890- root - INFO] - Add route: Route(static,GET,path=/api/get_assurance_data)
+[2017-09-07 13:06:20,890- root - INFO] - Add route: Route(static,GET,path=/api/get_finance_news_data)
+[2017-09-07 13:06:20,890- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_history)
+[2017-09-07 13:06:20,890- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_now)
+[2017-09-07 13:06:20,890- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_classification_datas)
+[2017-09-07 13:06:20,890- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_deal_data)
+[2017-09-07 13:06:20,890- root - INFO] - Add route: Route(static,GET,path=/api/task_list)
+[2017-09-07 13:06:20,890- root - INFO] - Add route: Route(static,GET,path=/api/users)
+[2017-09-07 13:06:20,890- root - INFO] - Add route: Route(static,GET,path=/api/news_scheduler_start)
+[2017-09-07 13:06:20,890- root - INFO] - Add route: Route(static,GET,path=/api/scheduler_start)
+[2017-09-07 13:06:20,890- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_hist_data_multithreading)
+[2017-09-07 13:06:20,891- root - INFO] - Add route: Route(dynamic,GET,path=/api/task_logs/:task_name)
+[2017-09-07 13:06:20,891- root - INFO] - Add route: Route(static,POST,path=/api/authenticate)
+[2017-09-07 13:06:20,891- root - INFO] - Add route: Route(static,GET,path=/)
+[2017-09-07 13:06:20,891- root - INFO] - Add route: Route(static,GET,path=/task_list)
+[2017-09-07 13:06:20,891- root - INFO] - Add route: Route(static,GET,path=/manage/comments)
+[2017-09-07 13:06:20,891- root - INFO] - Add route: Route(static,GET,path=/manage/)
+[2017-09-07 13:06:20,891- root - INFO] - Add route: Route(static,GET,path=/manage/users)
+[2017-09-07 13:06:20,891- root - INFO] - Add route: Route(static,GET,path=/register)
+[2017-09-07 13:06:20,891- root - INFO] - Add route: Route(static,POST,path=/api/users)
+[2017-09-07 13:06:20,891- root - INFO] - Add route: Route(static,GET,path=/signin)
+[2017-09-07 13:06:20,891- root - INFO] - Add route: Route(static,GET,path=/signout)
+[2017-09-07 13:06:20,891- root - INFO] - Add route: Route(static,GET,path=/stock)
+[2017-09-07 13:06:20,891- root - INFO] - Add route: Route(static,GET,path=/task_subimt)
+[2017-09-07 13:06:20,891- root - INFO] - Add route: Route(static,GET,path=/test)
+[2017-09-07 13:06:20,892- root - INFO] - application (/Users/hupeng/Downloads/gbd_spider/www) will start at 127.0.0.1:9000...
+[2017-09-07 13:06:22,895- root - INFO] - try to bind user from session cookie...
+[2017-09-07 13:06:23,696- root - INFO] - 合并中。。。
+[2017-09-07 13:06:23,696- root - INFO] - 合并完成
+[2017-09-07 13:06:23,697- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'post_url', 'key': 'url'}
+[2017-09-07 13:06:23,698- service.utils.tushare_data_util - INFO] - http://localhost:8080/gbd-gface-spider/gbdgfaceFilePost.do?file_path=/Users/hupeng/Downloads/gbd_spider/www/service/news/files/20170907.zip&file_name=20170907
+[2017-09-07 13:06:23,705- root - ERROR] - <urlopen error [Errno 61] Connection refused>
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 338, in api_get_finance_news_data
+    upload_daily_files()
+  File "/Users/hupeng/Downloads/gbd_spider/www/service/utils/tushare_data_util.py", line 114, in upload_daily_files
+    res_data = urllib2.urlopen(req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 61] Connection refused>
+[2017-09-07 13:07:52,933- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:07:52,933- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:07:52,934- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:07:52,934- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:07:53,111- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:07:53,112- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:07:53,113- root - INFO] - Add interceptor: <function user_interceptor at 0x108ca5ed8>
+[2017-09-07 13:07:53,113- root - INFO] - Add interceptor: <function manage_interceptor at 0x108cb00c8>
+[2017-09-07 13:07:53,113- root - INFO] - Add module: urls
+[2017-09-07 13:07:53,113- root - INFO] - Add route: Route(static,GET,path=/api/get_assurance_data)
+[2017-09-07 13:07:53,113- root - INFO] - Add route: Route(static,GET,path=/api/get_finance_news_data)
+[2017-09-07 13:07:53,113- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_history)
+[2017-09-07 13:07:53,113- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_now)
+[2017-09-07 13:07:53,113- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_classification_datas)
+[2017-09-07 13:07:53,113- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_deal_data)
+[2017-09-07 13:07:53,113- root - INFO] - Add route: Route(static,GET,path=/api/task_list)
+[2017-09-07 13:07:53,113- root - INFO] - Add route: Route(static,GET,path=/api/users)
+[2017-09-07 13:07:53,113- root - INFO] - Add route: Route(static,GET,path=/api/news_scheduler_start)
+[2017-09-07 13:07:53,113- root - INFO] - Add route: Route(static,GET,path=/api/scheduler_start)
+[2017-09-07 13:07:53,113- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_hist_data_multithreading)
+[2017-09-07 13:07:53,114- root - INFO] - Add route: Route(dynamic,GET,path=/api/task_logs/:task_name)
+[2017-09-07 13:07:53,114- root - INFO] - Add route: Route(static,POST,path=/api/authenticate)
+[2017-09-07 13:07:53,114- root - INFO] - Add route: Route(static,GET,path=/)
+[2017-09-07 13:07:53,114- root - INFO] - Add route: Route(static,GET,path=/task_list)
+[2017-09-07 13:07:53,114- root - INFO] - Add route: Route(static,GET,path=/manage/comments)
+[2017-09-07 13:07:53,114- root - INFO] - Add route: Route(static,GET,path=/manage/)
+[2017-09-07 13:07:53,114- root - INFO] - Add route: Route(static,GET,path=/manage/users)
+[2017-09-07 13:07:53,114- root - INFO] - Add route: Route(static,GET,path=/register)
+[2017-09-07 13:07:53,114- root - INFO] - Add route: Route(static,POST,path=/api/users)
+[2017-09-07 13:07:53,114- root - INFO] - Add route: Route(static,GET,path=/signin)
+[2017-09-07 13:07:53,114- root - INFO] - Add route: Route(static,GET,path=/signout)
+[2017-09-07 13:07:53,114- root - INFO] - Add route: Route(static,GET,path=/stock)
+[2017-09-07 13:07:53,114- root - INFO] - Add route: Route(static,GET,path=/task_subimt)
+[2017-09-07 13:07:53,114- root - INFO] - Add route: Route(static,GET,path=/test)
+[2017-09-07 13:07:53,115- root - INFO] - application (/Users/hupeng/Downloads/gbd_spider/www) will start at 127.0.0.1:9000...
+[2017-09-07 13:07:55,755- root - INFO] - try to bind user from session cookie...
+[2017-09-07 13:07:56,527- root - INFO] - 合并中。。。
+[2017-09-07 13:07:56,527- root - INFO] - 合并完成
+[2017-09-07 13:07:56,529- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'post_url', 'key': 'url'}
+[2017-09-07 13:07:56,529- service.utils.tushare_data_util - INFO] - http://localhost:8080/gbd-gface-spider/gbdgfaceFilePost.do?file_path=/Users/hupeng/Downloads/gbd_spider/www/service/news/files/20170907.zip&file_name=20170907
+[2017-09-07 13:07:56,536- root - ERROR] - <urlopen error [Errno 61] Connection refused>
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 338, in api_get_finance_news_data
+    upload_daily_files()
+  File "/Users/hupeng/Downloads/gbd_spider/www/service/utils/tushare_data_util.py", line 114, in upload_daily_files
+    res_data = urllib2.urlopen(req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 61] Connection refused>
+[2017-09-07 13:14:50,614- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:14:50,615- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:14:50,615- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:14:50,615- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:14:50,803- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:14:50,803- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:14:50,804- root - INFO] - Add interceptor: <function user_interceptor at 0x108cd4ed8>
+[2017-09-07 13:14:50,804- root - INFO] - Add interceptor: <function manage_interceptor at 0x108cdf0c8>
+[2017-09-07 13:14:50,804- root - INFO] - Add module: urls
+[2017-09-07 13:14:50,804- root - INFO] - Add route: Route(static,GET,path=/api/get_assurance_data)
+[2017-09-07 13:14:50,804- root - INFO] - Add route: Route(static,GET,path=/api/get_finance_news_data)
+[2017-09-07 13:14:50,804- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_history)
+[2017-09-07 13:14:50,804- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_now)
+[2017-09-07 13:14:50,804- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_classification_datas)
+[2017-09-07 13:14:50,804- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_deal_data)
+[2017-09-07 13:14:50,804- root - INFO] - Add route: Route(static,GET,path=/api/task_list)
+[2017-09-07 13:14:50,804- root - INFO] - Add route: Route(static,GET,path=/api/users)
+[2017-09-07 13:14:50,804- root - INFO] - Add route: Route(static,GET,path=/api/news_scheduler_start)
+[2017-09-07 13:14:50,804- root - INFO] - Add route: Route(static,GET,path=/api/scheduler_start)
+[2017-09-07 13:14:50,804- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_hist_data_multithreading)
+[2017-09-07 13:14:50,805- root - INFO] - Add route: Route(dynamic,GET,path=/api/task_logs/:task_name)
+[2017-09-07 13:14:50,805- root - INFO] - Add route: Route(static,POST,path=/api/authenticate)
+[2017-09-07 13:14:50,805- root - INFO] - Add route: Route(static,GET,path=/)
+[2017-09-07 13:14:50,805- root - INFO] - Add route: Route(static,GET,path=/task_list)
+[2017-09-07 13:14:50,805- root - INFO] - Add route: Route(static,GET,path=/manage/comments)
+[2017-09-07 13:14:50,805- root - INFO] - Add route: Route(static,GET,path=/manage/)
+[2017-09-07 13:14:50,805- root - INFO] - Add route: Route(static,GET,path=/manage/users)
+[2017-09-07 13:14:50,805- root - INFO] - Add route: Route(static,GET,path=/register)
+[2017-09-07 13:14:50,805- root - INFO] - Add route: Route(static,POST,path=/api/users)
+[2017-09-07 13:14:50,805- root - INFO] - Add route: Route(static,GET,path=/signin)
+[2017-09-07 13:14:50,805- root - INFO] - Add route: Route(static,GET,path=/signout)
+[2017-09-07 13:14:50,805- root - INFO] - Add route: Route(static,GET,path=/stock)
+[2017-09-07 13:14:50,805- root - INFO] - Add route: Route(static,GET,path=/task_subimt)
+[2017-09-07 13:14:50,805- root - INFO] - Add route: Route(static,GET,path=/test)
+[2017-09-07 13:14:50,807- root - INFO] - application (/Users/hupeng/Downloads/gbd_spider/www) will start at 127.0.0.1:9000...
+[2017-09-07 13:14:52,956- root - INFO] - try to bind user from session cookie...
+[2017-09-07 13:14:53,637- root - INFO] - 合并中。。。
+[2017-09-07 13:14:53,638- root - INFO] - 合并完成
+[2017-09-07 13:14:53,638- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'post_url', 'key': 'url'}
+[2017-09-07 13:14:53,638- service.utils.tushare_data_util - INFO] - http://localhost:8080/gbd-gface-spider/gbdgfaceFilePost.do?file_path=/Users/hupeng/Downloads/gbd_spider/www/service/news/files/20170907.zip&file_name=20170907
+[2017-09-07 13:14:53,645- root - ERROR] - <urlopen error [Errno 61] Connection refused>
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 338, in api_get_finance_news_data
+    upload_daily_files()
+  File "/Users/hupeng/Downloads/gbd_spider/www/service/utils/tushare_data_util.py", line 114, in upload_daily_files
+    res_data = urllib2.urlopen(req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 61] Connection refused>
+[2017-09-07 13:15:27,876- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:15:27,876- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:15:27,877- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:15:27,877- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:15:28,094- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:15:28,095- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:15:28,095- root - INFO] - Add interceptor: <function user_interceptor at 0x108cd4ed8>
+[2017-09-07 13:15:28,095- root - INFO] - Add interceptor: <function manage_interceptor at 0x108cdf0c8>
+[2017-09-07 13:15:28,095- root - INFO] - Add module: urls
+[2017-09-07 13:15:28,096- root - INFO] - Add route: Route(static,GET,path=/api/get_assurance_data)
+[2017-09-07 13:15:28,096- root - INFO] - Add route: Route(static,GET,path=/api/get_finance_news_data)
+[2017-09-07 13:15:28,096- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_history)
+[2017-09-07 13:15:28,096- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_now)
+[2017-09-07 13:15:28,096- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_classification_datas)
+[2017-09-07 13:15:28,096- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_deal_data)
+[2017-09-07 13:15:28,096- root - INFO] - Add route: Route(static,GET,path=/api/task_list)
+[2017-09-07 13:15:28,096- root - INFO] - Add route: Route(static,GET,path=/api/users)
+[2017-09-07 13:15:28,096- root - INFO] - Add route: Route(static,GET,path=/api/news_scheduler_start)
+[2017-09-07 13:15:28,096- root - INFO] - Add route: Route(static,GET,path=/api/scheduler_start)
+[2017-09-07 13:15:28,096- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_hist_data_multithreading)
+[2017-09-07 13:15:28,096- root - INFO] - Add route: Route(dynamic,GET,path=/api/task_logs/:task_name)
+[2017-09-07 13:15:28,096- root - INFO] - Add route: Route(static,POST,path=/api/authenticate)
+[2017-09-07 13:15:28,096- root - INFO] - Add route: Route(static,GET,path=/)
+[2017-09-07 13:15:28,096- root - INFO] - Add route: Route(static,GET,path=/task_list)
+[2017-09-07 13:15:28,096- root - INFO] - Add route: Route(static,GET,path=/manage/comments)
+[2017-09-07 13:15:28,097- root - INFO] - Add route: Route(static,GET,path=/manage/)
+[2017-09-07 13:15:28,097- root - INFO] - Add route: Route(static,GET,path=/manage/users)
+[2017-09-07 13:15:28,097- root - INFO] - Add route: Route(static,GET,path=/register)
+[2017-09-07 13:15:28,097- root - INFO] - Add route: Route(static,POST,path=/api/users)
+[2017-09-07 13:15:28,097- root - INFO] - Add route: Route(static,GET,path=/signin)
+[2017-09-07 13:15:28,097- root - INFO] - Add route: Route(static,GET,path=/signout)
+[2017-09-07 13:15:28,097- root - INFO] - Add route: Route(static,GET,path=/stock)
+[2017-09-07 13:15:28,097- root - INFO] - Add route: Route(static,GET,path=/task_subimt)
+[2017-09-07 13:15:28,097- root - INFO] - Add route: Route(static,GET,path=/test)
+[2017-09-07 13:15:28,099- root - INFO] - application (/Users/hupeng/Downloads/gbd_spider/www) will start at 127.0.0.1:9000...
+[2017-09-07 13:15:29,886- root - INFO] - try to bind user from session cookie...
+[2017-09-07 13:15:30,515- root - INFO] - 合并中。。。
+[2017-09-07 13:15:30,516- root - INFO] - 合并完成
+[2017-09-07 13:15:30,516- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'post_url', 'key': 'url'}
+[2017-09-07 13:15:30,516- service.utils.tushare_data_util - INFO] - http://localhost:8080/gbd-gface-spider/gbdgfaceFilePost.do?file_path=/Users/hupeng/Downloads/gbd_spider/www/service/news/files/20170907.zip&file_name=20170907
+[2017-09-07 13:15:30,523- root - ERROR] - <urlopen error [Errno 61] Connection refused>
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 338, in api_get_finance_news_data
+    upload_daily_files()
+  File "/Users/hupeng/Downloads/gbd_spider/www/service/utils/tushare_data_util.py", line 114, in upload_daily_files
+    res_data = urllib2.urlopen(req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 61] Connection refused>
+[2017-09-07 13:19:03,491- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:19:03,491- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:19:03,491- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:19:03,492- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:19:03,672- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:19:03,673- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:19:03,673- root - INFO] - Add interceptor: <function user_interceptor at 0x108d54ed8>
+[2017-09-07 13:19:03,674- root - INFO] - Add interceptor: <function manage_interceptor at 0x108d5f0c8>
+[2017-09-07 13:19:03,674- root - INFO] - Add module: urls
+[2017-09-07 13:19:03,674- root - INFO] - Add route: Route(static,GET,path=/api/get_assurance_data)
+[2017-09-07 13:19:03,674- root - INFO] - Add route: Route(static,GET,path=/api/get_finance_news_data)
+[2017-09-07 13:19:03,674- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_history)
+[2017-09-07 13:19:03,674- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_now)
+[2017-09-07 13:19:03,674- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_classification_datas)
+[2017-09-07 13:19:03,674- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_deal_data)
+[2017-09-07 13:19:03,674- root - INFO] - Add route: Route(static,GET,path=/api/task_list)
+[2017-09-07 13:19:03,674- root - INFO] - Add route: Route(static,GET,path=/api/users)
+[2017-09-07 13:19:03,674- root - INFO] - Add route: Route(static,GET,path=/api/news_scheduler_start)
+[2017-09-07 13:19:03,674- root - INFO] - Add route: Route(static,GET,path=/api/scheduler_start)
+[2017-09-07 13:19:03,674- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_hist_data_multithreading)
+[2017-09-07 13:19:03,675- root - INFO] - Add route: Route(dynamic,GET,path=/api/task_logs/:task_name)
+[2017-09-07 13:19:03,675- root - INFO] - Add route: Route(static,POST,path=/api/authenticate)
+[2017-09-07 13:19:03,675- root - INFO] - Add route: Route(static,GET,path=/)
+[2017-09-07 13:19:03,675- root - INFO] - Add route: Route(static,GET,path=/task_list)
+[2017-09-07 13:19:03,675- root - INFO] - Add route: Route(static,GET,path=/manage/comments)
+[2017-09-07 13:19:03,675- root - INFO] - Add route: Route(static,GET,path=/manage/)
+[2017-09-07 13:19:03,675- root - INFO] - Add route: Route(static,GET,path=/manage/users)
+[2017-09-07 13:19:03,675- root - INFO] - Add route: Route(static,GET,path=/register)
+[2017-09-07 13:19:03,675- root - INFO] - Add route: Route(static,POST,path=/api/users)
+[2017-09-07 13:19:03,675- root - INFO] - Add route: Route(static,GET,path=/signin)
+[2017-09-07 13:19:03,675- root - INFO] - Add route: Route(static,GET,path=/signout)
+[2017-09-07 13:19:03,675- root - INFO] - Add route: Route(static,GET,path=/stock)
+[2017-09-07 13:19:03,675- root - INFO] - Add route: Route(static,GET,path=/task_subimt)
+[2017-09-07 13:19:03,675- root - INFO] - Add route: Route(static,GET,path=/test)
+[2017-09-07 13:19:03,677- root - INFO] - application (/Users/hupeng/Downloads/gbd_spider/www) will start at 127.0.0.1:9000...
+[2017-09-07 13:19:10,118- root - INFO] - try to bind user from session cookie...
+[2017-09-07 13:19:27,363- root - INFO] - 合并中。。。
+[2017-09-07 13:19:27,363- root - INFO] - 合并完成
+[2017-09-07 13:19:27,364- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'post_url', 'key': 'url'}
+[2017-09-07 13:19:27,364- service.utils.tushare_data_util - INFO] - http://localhost:8080/gbd-gface-spider/gbdgfaceFilePost.do?file_path=/Users/hupeng/Downloads/gbd_spider/www/service/news/files/20170907.zip&file_name=20170907
+[2017-09-07 13:19:27,371- root - ERROR] - <urlopen error [Errno 61] Connection refused>
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 338, in api_get_finance_news_data
+    upload_daily_files()
+  File "/Users/hupeng/Downloads/gbd_spider/www/service/utils/tushare_data_util.py", line 114, in upload_daily_files
+    res_data = urllib2.urlopen(req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 61] Connection refused>
+[2017-09-07 13:21:06,905- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:21:06,905- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:21:06,906- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:21:06,906- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:21:07,108- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:21:07,109- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:21:07,110- root - INFO] - Add interceptor: <function user_interceptor at 0x108d9ced8>
+[2017-09-07 13:21:07,110- root - INFO] - Add interceptor: <function manage_interceptor at 0x108da70c8>
+[2017-09-07 13:21:07,110- root - INFO] - Add module: urls
+[2017-09-07 13:21:07,110- root - INFO] - Add route: Route(static,GET,path=/api/get_assurance_data)
+[2017-09-07 13:21:07,110- root - INFO] - Add route: Route(static,GET,path=/api/get_finance_news_data)
+[2017-09-07 13:21:07,110- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_history)
+[2017-09-07 13:21:07,110- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_now)
+[2017-09-07 13:21:07,110- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_classification_datas)
+[2017-09-07 13:21:07,110- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_deal_data)
+[2017-09-07 13:21:07,110- root - INFO] - Add route: Route(static,GET,path=/api/task_list)
+[2017-09-07 13:21:07,110- root - INFO] - Add route: Route(static,GET,path=/api/users)
+[2017-09-07 13:21:07,110- root - INFO] - Add route: Route(static,GET,path=/api/news_scheduler_start)
+[2017-09-07 13:21:07,110- root - INFO] - Add route: Route(static,GET,path=/api/scheduler_start)
+[2017-09-07 13:21:07,110- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_hist_data_multithreading)
+[2017-09-07 13:21:07,110- root - INFO] - Add route: Route(dynamic,GET,path=/api/task_logs/:task_name)
+[2017-09-07 13:21:07,110- root - INFO] - Add route: Route(static,POST,path=/api/authenticate)
+[2017-09-07 13:21:07,110- root - INFO] - Add route: Route(static,GET,path=/)
+[2017-09-07 13:21:07,110- root - INFO] - Add route: Route(static,GET,path=/task_list)
+[2017-09-07 13:21:07,110- root - INFO] - Add route: Route(static,GET,path=/manage/comments)
+[2017-09-07 13:21:07,110- root - INFO] - Add route: Route(static,GET,path=/manage/)
+[2017-09-07 13:21:07,111- root - INFO] - Add route: Route(static,GET,path=/manage/users)
+[2017-09-07 13:21:07,111- root - INFO] - Add route: Route(static,GET,path=/register)
+[2017-09-07 13:21:07,111- root - INFO] - Add route: Route(static,POST,path=/api/users)
+[2017-09-07 13:21:07,111- root - INFO] - Add route: Route(static,GET,path=/signin)
+[2017-09-07 13:21:07,111- root - INFO] - Add route: Route(static,GET,path=/signout)
+[2017-09-07 13:21:07,111- root - INFO] - Add route: Route(static,GET,path=/stock)
+[2017-09-07 13:21:07,111- root - INFO] - Add route: Route(static,GET,path=/task_subimt)
+[2017-09-07 13:21:07,111- root - INFO] - Add route: Route(static,GET,path=/test)
+[2017-09-07 13:21:07,112- root - INFO] - application (/Users/hupeng/Downloads/gbd_spider/www) will start at 127.0.0.1:9000...
+[2017-09-07 13:21:22,063- root - INFO] - try to bind user from session cookie...
+[2017-09-07 13:21:25,713- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:21:25,713- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:21:25,713- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:21:25,714- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:21:25,951- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:21:25,952- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:21:25,953- root - INFO] - Add interceptor: <function user_interceptor at 0x108de5ed8>
+[2017-09-07 13:21:25,953- root - INFO] - Add interceptor: <function manage_interceptor at 0x108df00c8>
+[2017-09-07 13:21:25,953- root - INFO] - Add module: urls
+[2017-09-07 13:21:25,953- root - INFO] - Add route: Route(static,GET,path=/api/get_assurance_data)
+[2017-09-07 13:21:25,953- root - INFO] - Add route: Route(static,GET,path=/api/get_finance_news_data)
+[2017-09-07 13:21:25,953- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_history)
+[2017-09-07 13:21:25,953- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_now)
+[2017-09-07 13:21:25,953- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_classification_datas)
+[2017-09-07 13:21:25,953- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_deal_data)
+[2017-09-07 13:21:25,953- root - INFO] - Add route: Route(static,GET,path=/api/task_list)
+[2017-09-07 13:21:25,953- root - INFO] - Add route: Route(static,GET,path=/api/users)
+[2017-09-07 13:21:25,953- root - INFO] - Add route: Route(static,GET,path=/api/news_scheduler_start)
+[2017-09-07 13:21:25,953- root - INFO] - Add route: Route(static,GET,path=/api/scheduler_start)
+[2017-09-07 13:21:25,953- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_hist_data_multithreading)
+[2017-09-07 13:21:25,954- root - INFO] - Add route: Route(dynamic,GET,path=/api/task_logs/:task_name)
+[2017-09-07 13:21:25,954- root - INFO] - Add route: Route(static,POST,path=/api/authenticate)
+[2017-09-07 13:21:25,954- root - INFO] - Add route: Route(static,GET,path=/)
+[2017-09-07 13:21:25,954- root - INFO] - Add route: Route(static,GET,path=/task_list)
+[2017-09-07 13:21:25,954- root - INFO] - Add route: Route(static,GET,path=/manage/comments)
+[2017-09-07 13:21:25,954- root - INFO] - Add route: Route(static,GET,path=/manage/)
+[2017-09-07 13:21:25,954- root - INFO] - Add route: Route(static,GET,path=/manage/users)
+[2017-09-07 13:21:25,954- root - INFO] - Add route: Route(static,GET,path=/register)
+[2017-09-07 13:21:25,954- root - INFO] - Add route: Route(static,POST,path=/api/users)
+[2017-09-07 13:21:25,954- root - INFO] - Add route: Route(static,GET,path=/signin)
+[2017-09-07 13:21:25,954- root - INFO] - Add route: Route(static,GET,path=/signout)
+[2017-09-07 13:21:25,954- root - INFO] - Add route: Route(static,GET,path=/stock)
+[2017-09-07 13:21:25,954- root - INFO] - Add route: Route(static,GET,path=/task_subimt)
+[2017-09-07 13:21:25,954- root - INFO] - Add route: Route(static,GET,path=/test)
+[2017-09-07 13:21:25,956- root - INFO] - application (/Users/hupeng/Downloads/gbd_spider/www) will start at 127.0.0.1:9000...
+[2017-09-07 13:21:27,767- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:21:27,768- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:21:27,768- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:21:27,769- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:21:27,962- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:21:27,963- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:21:27,964- root - INFO] - Add interceptor: <function user_interceptor at 0x108d35ed8>
+[2017-09-07 13:21:27,964- root - INFO] - Add interceptor: <function manage_interceptor at 0x108d400c8>
+[2017-09-07 13:21:27,964- root - INFO] - Add module: urls
+[2017-09-07 13:21:27,964- root - INFO] - Add route: Route(static,GET,path=/api/get_assurance_data)
+[2017-09-07 13:21:27,964- root - INFO] - Add route: Route(static,GET,path=/api/get_finance_news_data)
+[2017-09-07 13:21:27,964- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_history)
+[2017-09-07 13:21:27,964- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_now)
+[2017-09-07 13:21:27,964- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_classification_datas)
+[2017-09-07 13:21:27,964- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_deal_data)
+[2017-09-07 13:21:27,964- root - INFO] - Add route: Route(static,GET,path=/api/task_list)
+[2017-09-07 13:21:27,964- root - INFO] - Add route: Route(static,GET,path=/api/users)
+[2017-09-07 13:21:27,964- root - INFO] - Add route: Route(static,GET,path=/api/news_scheduler_start)
+[2017-09-07 13:21:27,964- root - INFO] - Add route: Route(static,GET,path=/api/scheduler_start)
+[2017-09-07 13:21:27,964- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_hist_data_multithreading)
+[2017-09-07 13:21:27,965- root - INFO] - Add route: Route(dynamic,GET,path=/api/task_logs/:task_name)
+[2017-09-07 13:21:27,965- root - INFO] - Add route: Route(static,POST,path=/api/authenticate)
+[2017-09-07 13:21:27,965- root - INFO] - Add route: Route(static,GET,path=/)
+[2017-09-07 13:21:27,965- root - INFO] - Add route: Route(static,GET,path=/task_list)
+[2017-09-07 13:21:27,965- root - INFO] - Add route: Route(static,GET,path=/manage/comments)
+[2017-09-07 13:21:27,965- root - INFO] - Add route: Route(static,GET,path=/manage/)
+[2017-09-07 13:21:27,965- root - INFO] - Add route: Route(static,GET,path=/manage/users)
+[2017-09-07 13:21:27,965- root - INFO] - Add route: Route(static,GET,path=/register)
+[2017-09-07 13:21:27,965- root - INFO] - Add route: Route(static,POST,path=/api/users)
+[2017-09-07 13:21:27,965- root - INFO] - Add route: Route(static,GET,path=/signin)
+[2017-09-07 13:21:27,965- root - INFO] - Add route: Route(static,GET,path=/signout)
+[2017-09-07 13:21:27,965- root - INFO] - Add route: Route(static,GET,path=/stock)
+[2017-09-07 13:21:27,965- root - INFO] - Add route: Route(static,GET,path=/task_subimt)
+[2017-09-07 13:21:27,965- root - INFO] - Add route: Route(static,GET,path=/test)
+[2017-09-07 13:21:27,967- root - INFO] - application (/Users/hupeng/Downloads/gbd_spider/www) will start at 127.0.0.1:9000...
+[2017-09-07 13:21:40,443- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:21:40,443- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:21:40,444- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:21:40,444- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:21:40,634- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:21:40,634- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:21:40,635- root - INFO] - Add interceptor: <function user_interceptor at 0x108d54ed8>
+[2017-09-07 13:21:40,635- root - INFO] - Add interceptor: <function manage_interceptor at 0x108d5f0c8>
+[2017-09-07 13:21:40,635- root - INFO] - Add module: urls
+[2017-09-07 13:21:40,635- root - INFO] - Add route: Route(static,GET,path=/api/get_assurance_data)
+[2017-09-07 13:21:40,635- root - INFO] - Add route: Route(static,GET,path=/api/get_finance_news_data)
+[2017-09-07 13:21:40,635- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_history)
+[2017-09-07 13:21:40,635- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_now)
+[2017-09-07 13:21:40,635- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_classification_datas)
+[2017-09-07 13:21:40,635- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_deal_data)
+[2017-09-07 13:21:40,636- root - INFO] - Add route: Route(static,GET,path=/api/task_list)
+[2017-09-07 13:21:40,636- root - INFO] - Add route: Route(static,GET,path=/api/users)
+[2017-09-07 13:21:40,636- root - INFO] - Add route: Route(static,GET,path=/api/news_scheduler_start)
+[2017-09-07 13:21:40,636- root - INFO] - Add route: Route(static,GET,path=/api/scheduler_start)
+[2017-09-07 13:21:40,636- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_hist_data_multithreading)
+[2017-09-07 13:21:40,636- root - INFO] - Add route: Route(dynamic,GET,path=/api/task_logs/:task_name)
+[2017-09-07 13:21:40,636- root - INFO] - Add route: Route(static,POST,path=/api/authenticate)
+[2017-09-07 13:21:40,636- root - INFO] - Add route: Route(static,GET,path=/)
+[2017-09-07 13:21:40,636- root - INFO] - Add route: Route(static,GET,path=/task_list)
+[2017-09-07 13:21:40,636- root - INFO] - Add route: Route(static,GET,path=/manage/comments)
+[2017-09-07 13:21:40,636- root - INFO] - Add route: Route(static,GET,path=/manage/)
+[2017-09-07 13:21:40,636- root - INFO] - Add route: Route(static,GET,path=/manage/users)
+[2017-09-07 13:21:40,636- root - INFO] - Add route: Route(static,GET,path=/register)
+[2017-09-07 13:21:40,636- root - INFO] - Add route: Route(static,POST,path=/api/users)
+[2017-09-07 13:21:40,636- root - INFO] - Add route: Route(static,GET,path=/signin)
+[2017-09-07 13:21:40,636- root - INFO] - Add route: Route(static,GET,path=/signout)
+[2017-09-07 13:21:40,636- root - INFO] - Add route: Route(static,GET,path=/stock)
+[2017-09-07 13:21:40,636- root - INFO] - Add route: Route(static,GET,path=/task_subimt)
+[2017-09-07 13:21:40,636- root - INFO] - Add route: Route(static,GET,path=/test)
+[2017-09-07 13:21:40,638- root - INFO] - application (/Users/hupeng/Downloads/gbd_spider/www) will start at 127.0.0.1:9001...
+[2017-09-07 13:21:49,288- root - INFO] - try to bind user from session cookie...
+[2017-09-07 13:21:49,909- root - INFO] - 合并中。。。
+[2017-09-07 13:21:49,909- root - INFO] - 合并完成
+[2017-09-07 13:21:49,909- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'post_url', 'key': 'url'}
+[2017-09-07 13:21:49,910- service.utils.tushare_data_util - INFO] - http://localhost:8080/gbd-gface-spider/gbdgfaceFilePost.do?file_path=/Users/hupeng/Downloads/gbd_spider/www/service/news/files/20170907.zip&file_name=20170907
+[2017-09-07 13:21:49,916- root - ERROR] - <urlopen error [Errno 61] Connection refused>
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 338, in api_get_finance_news_data
+    upload_daily_files()
+  File "/Users/hupeng/Downloads/gbd_spider/www/service/utils/tushare_data_util.py", line 114, in upload_daily_files
+    res_data = urllib2.urlopen(req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 61] Connection refused>
+[2017-09-07 13:21:49,932- root - INFO] - try to bind user from session cookie...
+[2017-09-07 13:22:11,894- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:22:11,894- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:22:11,895- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:22:11,895- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:22:12,093- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:22:12,094- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:22:12,095- root - INFO] - Add interceptor: <function user_interceptor at 0x108de5ed8>
+[2017-09-07 13:22:12,095- root - INFO] - Add interceptor: <function manage_interceptor at 0x108df00c8>
+[2017-09-07 13:22:12,095- root - INFO] - Add module: urls
+[2017-09-07 13:22:12,095- root - INFO] - Add route: Route(static,GET,path=/api/get_assurance_data)
+[2017-09-07 13:22:12,095- root - INFO] - Add route: Route(static,GET,path=/api/get_finance_news_data)
+[2017-09-07 13:22:12,095- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_history)
+[2017-09-07 13:22:12,095- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_now)
+[2017-09-07 13:22:12,095- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_classification_datas)
+[2017-09-07 13:22:12,095- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_deal_data)
+[2017-09-07 13:22:12,095- root - INFO] - Add route: Route(static,GET,path=/api/task_list)
+[2017-09-07 13:22:12,095- root - INFO] - Add route: Route(static,GET,path=/api/users)
+[2017-09-07 13:22:12,095- root - INFO] - Add route: Route(static,GET,path=/api/news_scheduler_start)
+[2017-09-07 13:22:12,095- root - INFO] - Add route: Route(static,GET,path=/api/scheduler_start)
+[2017-09-07 13:22:12,095- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_hist_data_multithreading)
+[2017-09-07 13:22:12,095- root - INFO] - Add route: Route(dynamic,GET,path=/api/task_logs/:task_name)
+[2017-09-07 13:22:12,095- root - INFO] - Add route: Route(static,POST,path=/api/authenticate)
+[2017-09-07 13:22:12,096- root - INFO] - Add route: Route(static,GET,path=/)
+[2017-09-07 13:22:12,096- root - INFO] - Add route: Route(static,GET,path=/task_list)
+[2017-09-07 13:22:12,096- root - INFO] - Add route: Route(static,GET,path=/manage/comments)
+[2017-09-07 13:22:12,096- root - INFO] - Add route: Route(static,GET,path=/manage/)
+[2017-09-07 13:22:12,096- root - INFO] - Add route: Route(static,GET,path=/manage/users)
+[2017-09-07 13:22:12,096- root - INFO] - Add route: Route(static,GET,path=/register)
+[2017-09-07 13:22:12,096- root - INFO] - Add route: Route(static,POST,path=/api/users)
+[2017-09-07 13:22:12,096- root - INFO] - Add route: Route(static,GET,path=/signin)
+[2017-09-07 13:22:12,096- root - INFO] - Add route: Route(static,GET,path=/signout)
+[2017-09-07 13:22:12,096- root - INFO] - Add route: Route(static,GET,path=/stock)
+[2017-09-07 13:22:12,096- root - INFO] - Add route: Route(static,GET,path=/task_subimt)
+[2017-09-07 13:22:12,096- root - INFO] - Add route: Route(static,GET,path=/test)
+[2017-09-07 13:22:12,100- root - INFO] - application (/Users/hupeng/Downloads/gbd_spider/www) will start at 127.0.0.1:9001...
+[2017-09-07 13:22:16,930- root - INFO] - try to bind user from session cookie...
+[2017-09-07 13:22:16,930- root - INFO] - return Template
+[2017-09-07 13:22:16,979- root - INFO] - try to bind user from session cookie...
+[2017-09-07 13:22:16,982- root - INFO] - try to bind user from session cookie...
+[2017-09-07 13:22:16,984- root - INFO] - try to bind user from session cookie...
+[2017-09-07 13:22:16,985- root - INFO] - try to bind user from session cookie...
+[2017-09-07 13:22:16,986- root - INFO] - try to bind user from session cookie...
+[2017-09-07 13:22:16,987- root - INFO] - try to bind user from session cookie...
+[2017-09-07 13:22:16,989- root - INFO] - try to bind user from session cookie...
+[2017-09-07 13:22:16,990- root - INFO] - try to bind user from session cookie...
+[2017-09-07 13:22:17,031- root - INFO] - try to bind user from session cookie...
+[2017-09-07 13:22:21,031- root - INFO] - try to bind user from session cookie...
+[2017-09-07 13:22:21,690- root - INFO] - 合并中。。。
+[2017-09-07 13:22:21,690- root - INFO] - 合并完成
+[2017-09-07 13:22:21,691- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'post_url', 'key': 'url'}
+[2017-09-07 13:22:21,691- service.utils.tushare_data_util - INFO] - http://localhost:8080/gbd-gface-spider/gbdgfaceFilePost.do?file_path=/Users/hupeng/Downloads/gbd_spider/www/service/news/files/20170907.zip&file_name=20170907
+[2017-09-07 13:22:21,697- root - ERROR] - <urlopen error [Errno 61] Connection refused>
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 338, in api_get_finance_news_data
+    upload_daily_files()
+  File "/Users/hupeng/Downloads/gbd_spider/www/service/utils/tushare_data_util.py", line 114, in upload_daily_files
+    res_data = urllib2.urlopen(req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 61] Connection refused>
+[2017-09-07 13:22:45,038- root - INFO] - 合并中。。。
+[2017-09-07 13:22:45,038- root - INFO] - 合并完成
+[2017-09-07 13:22:45,039- root - ERROR] - [Errno 2] No such file or directory: '/Users/hupeng/Downloads/gbd_spider/www/service/news/files/20170906'
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 337, in api_get_finance_news_data
+    zip_daily_dir_and_delete()
+  File "/Users/hupeng/Downloads/gbd_spider/www/service/utils/tushare_data_util.py", line 90, in zip_daily_dir_and_delete
+    if not os.listdir(src_path) == []:
+OSError: [Errno 2] No such file or directory: '/Users/hupeng/Downloads/gbd_spider/www/service/news/files/20170906'
+[2017-09-07 13:22:45,490- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:22:45,491- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:22:45,491- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:22:45,492- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:22:45,697- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:22:45,698- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:22:45,698- root - INFO] - Add interceptor: <function user_interceptor at 0x108ca5ed8>
+[2017-09-07 13:22:45,699- root - INFO] - Add interceptor: <function manage_interceptor at 0x108cb00c8>
+[2017-09-07 13:22:45,699- root - INFO] - Add module: urls
+[2017-09-07 13:22:45,699- root - INFO] - Add route: Route(static,GET,path=/api/get_assurance_data)
+[2017-09-07 13:22:45,699- root - INFO] - Add route: Route(static,GET,path=/api/get_finance_news_data)
+[2017-09-07 13:22:45,699- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_history)
+[2017-09-07 13:22:45,699- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_now)
+[2017-09-07 13:22:45,699- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_classification_datas)
+[2017-09-07 13:22:45,699- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_deal_data)
+[2017-09-07 13:22:45,699- root - INFO] - Add route: Route(static,GET,path=/api/task_list)
+[2017-09-07 13:22:45,699- root - INFO] - Add route: Route(static,GET,path=/api/users)
+[2017-09-07 13:22:45,699- root - INFO] - Add route: Route(static,GET,path=/api/news_scheduler_start)
+[2017-09-07 13:22:45,699- root - INFO] - Add route: Route(static,GET,path=/api/scheduler_start)
+[2017-09-07 13:22:45,699- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_hist_data_multithreading)
+[2017-09-07 13:22:45,699- root - INFO] - Add route: Route(dynamic,GET,path=/api/task_logs/:task_name)
+[2017-09-07 13:22:45,699- root - INFO] - Add route: Route(static,POST,path=/api/authenticate)
+[2017-09-07 13:22:45,699- root - INFO] - Add route: Route(static,GET,path=/)
+[2017-09-07 13:22:45,699- root - INFO] - Add route: Route(static,GET,path=/task_list)
+[2017-09-07 13:22:45,699- root - INFO] - Add route: Route(static,GET,path=/manage/comments)
+[2017-09-07 13:22:45,699- root - INFO] - Add route: Route(static,GET,path=/manage/)
+[2017-09-07 13:22:45,699- root - INFO] - Add route: Route(static,GET,path=/manage/users)
+[2017-09-07 13:22:45,699- root - INFO] - Add route: Route(static,GET,path=/register)
+[2017-09-07 13:22:45,700- root - INFO] - Add route: Route(static,POST,path=/api/users)
+[2017-09-07 13:22:45,700- root - INFO] - Add route: Route(static,GET,path=/signin)
+[2017-09-07 13:22:45,700- root - INFO] - Add route: Route(static,GET,path=/signout)
+[2017-09-07 13:22:45,700- root - INFO] - Add route: Route(static,GET,path=/stock)
+[2017-09-07 13:22:45,700- root - INFO] - Add route: Route(static,GET,path=/task_subimt)
+[2017-09-07 13:22:45,700- root - INFO] - Add route: Route(static,GET,path=/test)
+[2017-09-07 13:22:45,704- root - INFO] - application (/Users/hupeng/Downloads/gbd_spider/www) will start at 127.0.0.1:9001...
+[2017-09-07 13:22:47,715- root - INFO] - try to bind user from session cookie...
+[2017-09-07 13:24:36,343- root - INFO] - 合并中。。。
+[2017-09-07 13:24:36,344- root - INFO] - 合并完成
+[2017-09-07 13:24:36,346- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'post_url', 'key': 'url'}
+[2017-09-07 13:24:36,346- service.utils.tushare_data_util - INFO] - http://localhost:8080/gbd-gface-spider/gbdgfaceFilePost.do?file_path=/Users/hupeng/Downloads/gbd_spider/www/service/news/files/20170907.zip&file_name=20170907
+[2017-09-07 13:24:36,353- root - ERROR] - <urlopen error [Errno 61] Connection refused>
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 338, in api_get_finance_news_data
+    upload_daily_files()
+  File "/Users/hupeng/Downloads/gbd_spider/www/service/utils/tushare_data_util.py", line 114, in upload_daily_files
+    res_data = urllib2.urlopen(req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 61] Connection refused>
+[2017-09-07 13:27:33,618- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:27:33,618- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:27:33,619- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:27:33,620- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:27:33,839- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:27:33,840- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-09-07 13:27:33,841- root - INFO] - Add interceptor: <function user_interceptor at 0x108cd4ed8>
+[2017-09-07 13:27:33,841- root - INFO] - Add interceptor: <function manage_interceptor at 0x108cdf0c8>
+[2017-09-07 13:27:33,841- root - INFO] - Add module: urls
+[2017-09-07 13:27:33,842- root - INFO] - Add route: Route(static,GET,path=/api/get_assurance_data)
+[2017-09-07 13:27:33,842- root - INFO] - Add route: Route(static,GET,path=/api/get_finance_news_data)
+[2017-09-07 13:27:33,842- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_history)
+[2017-09-07 13:27:33,842- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_now)
+[2017-09-07 13:27:33,842- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_classification_datas)
+[2017-09-07 13:27:33,842- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_deal_data)
+[2017-09-07 13:27:33,842- root - INFO] - Add route: Route(static,GET,path=/api/task_list)
+[2017-09-07 13:27:33,842- root - INFO] - Add route: Route(static,GET,path=/api/users)
+[2017-09-07 13:27:33,842- root - INFO] - Add route: Route(static,GET,path=/api/news_scheduler_start)
+[2017-09-07 13:27:33,842- root - INFO] - Add route: Route(static,GET,path=/api/scheduler_start)
+[2017-09-07 13:27:33,842- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_hist_data_multithreading)
+[2017-09-07 13:27:33,842- root - INFO] - Add route: Route(dynamic,GET,path=/api/task_logs/:task_name)
+[2017-09-07 13:27:33,842- root - INFO] - Add route: Route(static,POST,path=/api/authenticate)
+[2017-09-07 13:27:33,842- root - INFO] - Add route: Route(static,GET,path=/)
+[2017-09-07 13:27:33,842- root - INFO] - Add route: Route(static,GET,path=/task_list)
+[2017-09-07 13:27:33,842- root - INFO] - Add route: Route(static,GET,path=/manage/comments)
+[2017-09-07 13:27:33,842- root - INFO] - Add route: Route(static,GET,path=/manage/)
+[2017-09-07 13:27:33,843- root - INFO] - Add route: Route(static,GET,path=/manage/users)
+[2017-09-07 13:27:33,843- root - INFO] - Add route: Route(static,GET,path=/register)
+[2017-09-07 13:27:33,843- root - INFO] - Add route: Route(static,POST,path=/api/users)
+[2017-09-07 13:27:33,843- root - INFO] - Add route: Route(static,GET,path=/signin)
+[2017-09-07 13:27:33,843- root - INFO] - Add route: Route(static,GET,path=/signout)
+[2017-09-07 13:27:33,843- root - INFO] - Add route: Route(static,GET,path=/stock)
+[2017-09-07 13:27:33,843- root - INFO] - Add route: Route(static,GET,path=/task_subimt)
+[2017-09-07 13:27:33,843- root - INFO] - Add route: Route(static,GET,path=/test)
+[2017-09-07 13:27:33,847- root - INFO] - application (/Users/hupeng/Downloads/gbd_spider/www) will start at 127.0.0.1:9001...
+[2017-09-07 13:27:36,491- root - INFO] - try to bind user from session cookie...
+[2017-09-07 13:29:39,843- root - INFO] - 合并中。。。
+[2017-09-07 13:29:39,843- root - INFO] - 合并完成
+[2017-09-07 13:29:39,845- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'post_url', 'key': 'url'}
+[2017-09-07 13:29:39,845- service.utils.tushare_data_util - INFO] - http://localhost:8080/gbd-gface-spider/gbdgfaceFilePost.do?file_path=/Users/hupeng/Downloads/gbd_spider/www/service/news/files/20170907.zip&file_name=20170907
+[2017-09-07 13:29:39,853- root - ERROR] - <urlopen error [Errno 61] Connection refused>
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 338, in api_get_finance_news_data
+    upload_daily_files()
+  File "/Users/hupeng/Downloads/gbd_spider/www/service/utils/tushare_data_util.py", line 114, in upload_daily_files
+    res_data = urllib2.urlopen(req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 447, in _open
+    '_open', req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 61] Connection refused>

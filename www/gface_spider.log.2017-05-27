@@ -1,0 +1,62 @@
+[2017-05-27 09:07:05,299- mod_config - INFO] - {'config file path': 'C:\\Users\\sunyibo\\gbd_spider\\www\\service\\common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-05-27 09:07:05,302- mod_config - INFO] - {'config file path': 'C:\\Users\\sunyibo\\gbd_spider\\www\\service\\common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-05-27 09:07:05,303- mod_config - INFO] - {'config file path': 'C:\\Users\\sunyibo\\gbd_spider\\www\\service\\common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-05-27 09:07:05,305- mod_config - INFO] - {'config file path': 'C:\\Users\\sunyibo\\gbd_spider\\www\\service\\common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-05-27 09:07:05,579- mod_config - INFO] - {'config file path': 'C:\\Users\\sunyibo\\gbd_spider\\www\\service\\common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-05-27 09:07:05,584- mod_config - INFO] - {'config file path': 'C:\\Users\\sunyibo\\gbd_spider\\www\\service\\common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-05-27 09:07:05,585- root - INFO] - Add interceptor: <function user_interceptor at 0x000000000790C4A8>
+[2017-05-27 09:07:05,585- root - INFO] - Add interceptor: <function manage_interceptor at 0x000000000790C588>
+[2017-05-27 09:07:05,585- root - INFO] - Add module: urls
+[2017-05-27 09:07:05,585- root - INFO] - Add route: Route(static,GET,path=/api/get_assurance_data)
+[2017-05-27 09:07:05,585- root - INFO] - Add route: Route(static,GET,path=/api/get_finance_news_data)
+[2017-05-27 09:07:05,585- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_history)
+[2017-05-27 09:07:05,585- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_now)
+[2017-05-27 09:07:05,585- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_classification_datas)
+[2017-05-27 09:07:05,585- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_deal_data)
+[2017-05-27 09:07:05,585- root - INFO] - Add route: Route(static,GET,path=/api/task_list)
+[2017-05-27 09:07:05,585- root - INFO] - Add route: Route(static,GET,path=/api/users)
+[2017-05-27 09:07:05,585- root - INFO] - Add route: Route(static,GET,path=/api/news_scheduler_start)
+[2017-05-27 09:07:05,585- root - INFO] - Add route: Route(static,GET,path=/api/scheduler_start)
+[2017-05-27 09:07:05,585- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_hist_data_multithreading)
+[2017-05-27 09:07:05,585- root - INFO] - Add route: Route(dynamic,GET,path=/api/task_logs/:task_name)
+[2017-05-27 09:07:05,585- root - INFO] - Add route: Route(static,POST,path=/api/authenticate)
+[2017-05-27 09:07:05,585- root - INFO] - Add route: Route(static,GET,path=/)
+[2017-05-27 09:07:05,585- root - INFO] - Add route: Route(static,GET,path=/task_list)
+[2017-05-27 09:07:05,585- root - INFO] - Add route: Route(static,GET,path=/manage/comments)
+[2017-05-27 09:07:05,585- root - INFO] - Add route: Route(static,GET,path=/manage/)
+[2017-05-27 09:07:05,585- root - INFO] - Add route: Route(static,GET,path=/manage/users)
+[2017-05-27 09:07:05,585- root - INFO] - Add route: Route(static,GET,path=/register)
+[2017-05-27 09:07:05,585- root - INFO] - Add route: Route(static,POST,path=/api/users)
+[2017-05-27 09:07:05,585- root - INFO] - Add route: Route(static,GET,path=/signin)
+[2017-05-27 09:07:05,585- root - INFO] - Add route: Route(static,GET,path=/signout)
+[2017-05-27 09:07:05,585- root - INFO] - Add route: Route(static,GET,path=/stock)
+[2017-05-27 09:07:05,585- root - INFO] - Add route: Route(static,GET,path=/task_subimt)
+[2017-05-27 09:07:05,585- root - INFO] - Add route: Route(static,GET,path=/test)
+[2017-05-27 09:07:05,595- root - INFO] - application (C:\Users\sunyibo\gbd_spider\www) will start at 127.0.0.1:9000...
+[2017-05-27 09:07:07,392- root - INFO] - try to bind user from session cookie...
+[2017-05-27 09:07:16,802- root - INFO] - 合并中。。。
+[2017-05-27 09:07:16,802- root - INFO] - 合并完成
+[2017-05-27 09:07:16,806- mod_config - INFO] - {'config file path': 'C:\\Users\\sunyibo\\gbd_spider\\www\\service\\common/system.conf', 'section': 'post_url', 'key': 'url'}
+[2017-05-27 09:07:16,806- service.utils.tushare_data_util - INFO] - http://localhost:8080/gbd-gface-spider/gbdgfaceFilePost.do?file_path=C:\Users\sunyibo\gbd_spider\www/service/news/files/20170527.zip&file_name=20170527
+[2017-05-27 09:07:18,813- root - ERROR] - <urlopen error [Errno 10061] >
+Traceback (most recent call last):
+  File "C:\Users\sunyibo\gbd_spider\www\apis.py", line 129, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "C:\Users\sunyibo\gbd_spider\www\urls.py", line 339, in api_get_finance_news_data
+    upload_daily_files()
+  File "C:\Users\sunyibo\gbd_spider\www\service\utils\tushare_data_util.py", line 114, in upload_daily_files
+    res_data = urllib2.urlopen(req)
+  File "C:\Users\sunyibo\Anaconda2\lib\urllib2.py", line 154, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\sunyibo\Anaconda2\lib\urllib2.py", line 429, in open
+    response = self._open(req, data)
+  File "C:\Users\sunyibo\Anaconda2\lib\urllib2.py", line 447, in _open
+    '_open', req)
+  File "C:\Users\sunyibo\Anaconda2\lib\urllib2.py", line 407, in _call_chain
+    result = func(*args)
+  File "C:\Users\sunyibo\Anaconda2\lib\urllib2.py", line 1228, in http_open
+    return self.do_open(httplib.HTTPConnection, req)
+  File "C:\Users\sunyibo\Anaconda2\lib\urllib2.py", line 1198, in do_open
+    raise URLError(err)
+URLError: <urlopen error [Errno 10061] >
+[2017-05-27 09:07:18,983- root - INFO] - try to bind user from session cookie...

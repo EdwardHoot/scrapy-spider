@@ -1,0 +1,850 @@
+[2017-08-14 16:16:58,717- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-08-14 16:16:58,718- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-08-14 16:16:58,718- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-08-14 16:16:58,719- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-08-14 16:16:58,905- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-08-14 16:16:58,906- mod_config - INFO] - {'config file path': '/Users/hupeng/Downloads/gbd_spider/www/service/common/system.conf', 'section': 'path', 'key': 'path'}
+[2017-08-14 16:16:58,907- root - INFO] - Add interceptor: <function user_interceptor at 0x108d59e60>
+[2017-08-14 16:16:58,907- root - INFO] - Add interceptor: <function manage_interceptor at 0x108d60050>
+[2017-08-14 16:16:58,907- root - INFO] - Add module: urls
+[2017-08-14 16:16:58,907- root - INFO] - Add route: Route(static,GET,path=/api/get_assurance_data)
+[2017-08-14 16:16:58,907- root - INFO] - Add route: Route(static,GET,path=/api/get_finance_news_data)
+[2017-08-14 16:16:58,907- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_history)
+[2017-08-14 16:16:58,907- root - INFO] - Add route: Route(static,GET,path=/api/get_fundamental_datas_now)
+[2017-08-14 16:16:58,907- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_classification_datas)
+[2017-08-14 16:16:58,907- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_deal_data)
+[2017-08-14 16:16:58,907- root - INFO] - Add route: Route(static,GET,path=/api/task_list)
+[2017-08-14 16:16:58,907- root - INFO] - Add route: Route(static,GET,path=/api/users)
+[2017-08-14 16:16:58,907- root - INFO] - Add route: Route(static,GET,path=/api/news_scheduler_start)
+[2017-08-14 16:16:58,907- root - INFO] - Add route: Route(static,GET,path=/api/scheduler_start)
+[2017-08-14 16:16:58,907- root - INFO] - Add route: Route(static,GET,path=/api/get_stock_hist_data_multithreading)
+[2017-08-14 16:16:58,908- root - INFO] - Add route: Route(dynamic,GET,path=/api/task_logs/:task_name)
+[2017-08-14 16:16:58,908- root - INFO] - Add route: Route(static,POST,path=/api/authenticate)
+[2017-08-14 16:16:58,908- root - INFO] - Add route: Route(static,GET,path=/)
+[2017-08-14 16:16:58,908- root - INFO] - Add route: Route(static,GET,path=/task_list)
+[2017-08-14 16:16:58,908- root - INFO] - Add route: Route(static,GET,path=/manage/comments)
+[2017-08-14 16:16:58,908- root - INFO] - Add route: Route(static,GET,path=/manage/)
+[2017-08-14 16:16:58,908- root - INFO] - Add route: Route(static,GET,path=/manage/users)
+[2017-08-14 16:16:58,908- root - INFO] - Add route: Route(static,GET,path=/register)
+[2017-08-14 16:16:58,908- root - INFO] - Add route: Route(static,POST,path=/api/users)
+[2017-08-14 16:16:58,908- root - INFO] - Add route: Route(static,GET,path=/signin)
+[2017-08-14 16:16:58,908- root - INFO] - Add route: Route(static,GET,path=/signout)
+[2017-08-14 16:16:58,908- root - INFO] - Add route: Route(static,GET,path=/stock)
+[2017-08-14 16:16:58,908- root - INFO] - Add route: Route(static,GET,path=/task_subimt)
+[2017-08-14 16:16:58,908- root - INFO] - Add route: Route(static,GET,path=/test)
+[2017-08-14 16:16:58,912- root - INFO] - application (/Users/hupeng/Downloads/gbd_spider/www) will start at 127.0.0.1:9000...
+[2017-08-14 16:17:13,510- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:17:13,510- root - INFO] - return Template
+[2017-08-14 16:17:13,545- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:17:13,546- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:17:13,547- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:17:13,548- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:17:13,549- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:17:13,550- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:17:13,551- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:17:13,553- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:17:13,599- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:17:15,627- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:17:15,627- root - INFO] - return Template
+[2017-08-14 16:17:15,703- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:17:15,704- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:17:15,705- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:17:15,706- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:17:15,707- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:17:15,708- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:17:15,710- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:17:15,711- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:17:15,712- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:17:15,738- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:17:48,869- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:17:48,869- root - INFO] - open lazy connection...
+[2017-08-14 16:17:48,869- root - INFO] - SQL: select * from users where email=%s, ARGS: (u'929001927@qq.com',)
+[2017-08-14 16:17:48,878- root - ERROR] - 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 171, in register_user
+    user = User.find_first('where email=?', email)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/orm.py", line 244, in find_first
+    d = db.select_one('select * from %s %s' % (cls.__table__, where), *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 217, in _wrapper
+    return func(*args, **kw)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 373, in select_one
+    return _select(sql, True, *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 337, in _select
+    cursor = _db_ctx.connection.cursor()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 93, in cursor
+    connection = engine.connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 151, in connect
+    return self._connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 165, in <lambda>
+    engine = _Engine(lambda: mysql.connector.connect(**params))
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/abstracts.py", line 719, in connect
+    self._open_connection()
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 210, in _open_connection
+    self._ssl)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 144, in _do_auth
+    self._auth_switch_request(username, password)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 177, in _auth_switch_request
+    raise errors.get_exception(packet)
+ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+[2017-08-14 16:17:57,216- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:17:57,216- root - INFO] - open lazy connection...
+[2017-08-14 16:17:57,216- root - INFO] - SQL: select * from users where email=%s, ARGS: (u'929001927@qq.com',)
+[2017-08-14 16:17:57,217- root - ERROR] - 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 171, in register_user
+    user = User.find_first('where email=?', email)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/orm.py", line 244, in find_first
+    d = db.select_one('select * from %s %s' % (cls.__table__, where), *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 217, in _wrapper
+    return func(*args, **kw)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 373, in select_one
+    return _select(sql, True, *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 337, in _select
+    cursor = _db_ctx.connection.cursor()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 93, in cursor
+    connection = engine.connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 151, in connect
+    return self._connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 165, in <lambda>
+    engine = _Engine(lambda: mysql.connector.connect(**params))
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/abstracts.py", line 719, in connect
+    self._open_connection()
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 210, in _open_connection
+    self._ssl)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 144, in _do_auth
+    self._auth_switch_request(username, password)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 177, in _auth_switch_request
+    raise errors.get_exception(packet)
+ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+[2017-08-14 16:17:57,992- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:17:57,993- root - INFO] - open lazy connection...
+[2017-08-14 16:17:57,993- root - INFO] - SQL: select * from users where email=%s, ARGS: (u'929001927@qq.com',)
+[2017-08-14 16:17:57,994- root - ERROR] - 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 171, in register_user
+    user = User.find_first('where email=?', email)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/orm.py", line 244, in find_first
+    d = db.select_one('select * from %s %s' % (cls.__table__, where), *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 217, in _wrapper
+    return func(*args, **kw)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 373, in select_one
+    return _select(sql, True, *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 337, in _select
+    cursor = _db_ctx.connection.cursor()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 93, in cursor
+    connection = engine.connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 151, in connect
+    return self._connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 165, in <lambda>
+    engine = _Engine(lambda: mysql.connector.connect(**params))
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/abstracts.py", line 719, in connect
+    self._open_connection()
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 210, in _open_connection
+    self._ssl)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 144, in _do_auth
+    self._auth_switch_request(username, password)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 177, in _auth_switch_request
+    raise errors.get_exception(packet)
+ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+[2017-08-14 16:18:05,037- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:18:05,037- root - INFO] - return Template
+[2017-08-14 16:18:05,107- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:18:05,107- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:18:05,109- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:18:05,110- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:18:05,111- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:18:05,112- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:18:05,113- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:18:05,113- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:18:05,114- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:18:05,143- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:18:36,366- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:18:36,367- root - INFO] - open lazy connection...
+[2017-08-14 16:18:36,367- root - INFO] - SQL: select * from users where email=%s, ARGS: (u'929001927@qq.com',)
+[2017-08-14 16:18:36,368- root - ERROR] - 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 171, in register_user
+    user = User.find_first('where email=?', email)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/orm.py", line 244, in find_first
+    d = db.select_one('select * from %s %s' % (cls.__table__, where), *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 217, in _wrapper
+    return func(*args, **kw)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 373, in select_one
+    return _select(sql, True, *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 337, in _select
+    cursor = _db_ctx.connection.cursor()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 93, in cursor
+    connection = engine.connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 151, in connect
+    return self._connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 165, in <lambda>
+    engine = _Engine(lambda: mysql.connector.connect(**params))
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/abstracts.py", line 719, in connect
+    self._open_connection()
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 210, in _open_connection
+    self._ssl)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 144, in _do_auth
+    self._auth_switch_request(username, password)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 177, in _auth_switch_request
+    raise errors.get_exception(packet)
+ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+[2017-08-14 16:18:51,054- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:18:51,054- root - INFO] - open lazy connection...
+[2017-08-14 16:18:51,054- root - INFO] - SQL: select * from users where email=%s, ARGS: (u'hupeng894@pingan.com.cn',)
+[2017-08-14 16:18:51,055- root - ERROR] - 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 171, in register_user
+    user = User.find_first('where email=?', email)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/orm.py", line 244, in find_first
+    d = db.select_one('select * from %s %s' % (cls.__table__, where), *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 217, in _wrapper
+    return func(*args, **kw)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 373, in select_one
+    return _select(sql, True, *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 337, in _select
+    cursor = _db_ctx.connection.cursor()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 93, in cursor
+    connection = engine.connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 151, in connect
+    return self._connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 165, in <lambda>
+    engine = _Engine(lambda: mysql.connector.connect(**params))
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/abstracts.py", line 719, in connect
+    self._open_connection()
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 210, in _open_connection
+    self._ssl)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 144, in _do_auth
+    self._auth_switch_request(username, password)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 177, in _auth_switch_request
+    raise errors.get_exception(packet)
+ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+[2017-08-14 16:18:51,807- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:18:51,807- root - INFO] - open lazy connection...
+[2017-08-14 16:18:51,807- root - INFO] - SQL: select * from users where email=%s, ARGS: (u'hupeng894@pingan.com.cn',)
+[2017-08-14 16:18:51,809- root - ERROR] - 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 171, in register_user
+    user = User.find_first('where email=?', email)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/orm.py", line 244, in find_first
+    d = db.select_one('select * from %s %s' % (cls.__table__, where), *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 217, in _wrapper
+    return func(*args, **kw)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 373, in select_one
+    return _select(sql, True, *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 337, in _select
+    cursor = _db_ctx.connection.cursor()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 93, in cursor
+    connection = engine.connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 151, in connect
+    return self._connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 165, in <lambda>
+    engine = _Engine(lambda: mysql.connector.connect(**params))
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/abstracts.py", line 719, in connect
+    self._open_connection()
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 210, in _open_connection
+    self._ssl)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 144, in _do_auth
+    self._auth_switch_request(username, password)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 177, in _auth_switch_request
+    raise errors.get_exception(packet)
+ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+[2017-08-14 16:18:56,023- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:18:56,023- root - INFO] - return Template
+[2017-08-14 16:18:56,090- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:18:56,091- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:18:56,092- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:18:56,094- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:18:56,095- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:18:56,096- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:18:56,097- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:18:56,098- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:18:56,099- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:18:56,126- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:19:26,912- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:19:26,912- root - INFO] - open lazy connection...
+[2017-08-14 16:19:26,913- root - INFO] - SQL: select * from users where email=%s, ARGS: (u'hupeng894@pingan.com.cn',)
+[2017-08-14 16:19:26,914- root - ERROR] - 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 171, in register_user
+    user = User.find_first('where email=?', email)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/orm.py", line 244, in find_first
+    d = db.select_one('select * from %s %s' % (cls.__table__, where), *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 217, in _wrapper
+    return func(*args, **kw)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 373, in select_one
+    return _select(sql, True, *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 337, in _select
+    cursor = _db_ctx.connection.cursor()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 93, in cursor
+    connection = engine.connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 151, in connect
+    return self._connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 165, in <lambda>
+    engine = _Engine(lambda: mysql.connector.connect(**params))
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/abstracts.py", line 719, in connect
+    self._open_connection()
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 210, in _open_connection
+    self._ssl)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 144, in _do_auth
+    self._auth_switch_request(username, password)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 177, in _auth_switch_request
+    raise errors.get_exception(packet)
+ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+[2017-08-14 16:22:06,009- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:22:06,009- root - INFO] - return Template
+[2017-08-14 16:22:06,080- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:22:06,081- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:22:06,082- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:22:06,083- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:22:06,085- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:22:06,086- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:22:06,086- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:22:06,087- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:22:06,088- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:22:06,116- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:22:31,795- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:22:31,795- root - INFO] - open lazy connection...
+[2017-08-14 16:22:31,795- root - INFO] - SQL: select * from users where email=%s, ARGS: (u'hupeng@pingan.com.cn',)
+[2017-08-14 16:22:31,796- root - ERROR] - 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 171, in register_user
+    user = User.find_first('where email=?', email)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/orm.py", line 244, in find_first
+    d = db.select_one('select * from %s %s' % (cls.__table__, where), *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 217, in _wrapper
+    return func(*args, **kw)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 373, in select_one
+    return _select(sql, True, *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 337, in _select
+    cursor = _db_ctx.connection.cursor()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 93, in cursor
+    connection = engine.connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 151, in connect
+    return self._connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 165, in <lambda>
+    engine = _Engine(lambda: mysql.connector.connect(**params))
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/abstracts.py", line 719, in connect
+    self._open_connection()
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 210, in _open_connection
+    self._ssl)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 144, in _do_auth
+    self._auth_switch_request(username, password)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 177, in _auth_switch_request
+    raise errors.get_exception(packet)
+ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+[2017-08-14 16:22:41,550- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:22:41,550- root - INFO] - return Template
+[2017-08-14 16:22:41,617- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:22:41,618- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:22:41,619- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:22:41,620- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:22:41,621- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:22:41,622- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:22:41,623- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:22:41,624- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:22:41,625- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:22:41,653- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:23:00,486- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:23:00,487- root - INFO] - open lazy connection...
+[2017-08-14 16:23:00,487- root - INFO] - SQL: select * from users where email=%s, ARGS: (u'hupeng894@pingan.com.cn',)
+[2017-08-14 16:23:00,488- root - ERROR] - 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 171, in register_user
+    user = User.find_first('where email=?', email)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/orm.py", line 244, in find_first
+    d = db.select_one('select * from %s %s' % (cls.__table__, where), *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 217, in _wrapper
+    return func(*args, **kw)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 373, in select_one
+    return _select(sql, True, *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 337, in _select
+    cursor = _db_ctx.connection.cursor()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 93, in cursor
+    connection = engine.connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 151, in connect
+    return self._connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 165, in <lambda>
+    engine = _Engine(lambda: mysql.connector.connect(**params))
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/abstracts.py", line 719, in connect
+    self._open_connection()
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 210, in _open_connection
+    self._ssl)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 144, in _do_auth
+    self._auth_switch_request(username, password)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 177, in _auth_switch_request
+    raise errors.get_exception(packet)
+ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+[2017-08-14 16:24:18,621- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:24:18,621- root - INFO] - return Template
+[2017-08-14 16:24:18,687- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:24:18,689- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:24:18,690- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:24:18,691- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:24:18,692- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:24:18,693- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:24:18,694- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:24:18,695- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:24:18,695- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:24:18,726- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:24:35,872- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:24:35,872- root - INFO] - open lazy connection...
+[2017-08-14 16:24:35,872- root - INFO] - SQL: select * from users where email=%s, ARGS: (u'hupeng894@pingan.com.cn',)
+[2017-08-14 16:24:35,873- root - ERROR] - 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 171, in register_user
+    user = User.find_first('where email=?', email)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/orm.py", line 244, in find_first
+    d = db.select_one('select * from %s %s' % (cls.__table__, where), *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 217, in _wrapper
+    return func(*args, **kw)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 373, in select_one
+    return _select(sql, True, *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 337, in _select
+    cursor = _db_ctx.connection.cursor()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 93, in cursor
+    connection = engine.connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 151, in connect
+    return self._connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 165, in <lambda>
+    engine = _Engine(lambda: mysql.connector.connect(**params))
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/abstracts.py", line 719, in connect
+    self._open_connection()
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 210, in _open_connection
+    self._ssl)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 144, in _do_auth
+    self._auth_switch_request(username, password)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 177, in _auth_switch_request
+    raise errors.get_exception(packet)
+ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+[2017-08-14 16:26:31,859- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:26:31,859- root - INFO] - return Template
+[2017-08-14 16:26:31,926- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:26:31,928- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:26:31,929- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:26:31,929- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:26:31,931- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:26:31,932- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:26:31,933- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:26:31,934- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:26:31,935- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:26:31,965- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:26:51,448- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:26:51,449- root - INFO] - open lazy connection...
+[2017-08-14 16:26:51,449- root - INFO] - SQL: select * from users where email=%s, ARGS: (u'hupeng894@pingan.com.cn',)
+[2017-08-14 16:26:51,450- root - ERROR] - 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 171, in register_user
+    user = User.find_first('where email=?', email)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/orm.py", line 244, in find_first
+    d = db.select_one('select * from %s %s' % (cls.__table__, where), *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 217, in _wrapper
+    return func(*args, **kw)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 373, in select_one
+    return _select(sql, True, *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 337, in _select
+    cursor = _db_ctx.connection.cursor()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 93, in cursor
+    connection = engine.connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 151, in connect
+    return self._connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 165, in <lambda>
+    engine = _Engine(lambda: mysql.connector.connect(**params))
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/abstracts.py", line 719, in connect
+    self._open_connection()
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 210, in _open_connection
+    self._ssl)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 144, in _do_auth
+    self._auth_switch_request(username, password)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 177, in _auth_switch_request
+    raise errors.get_exception(packet)
+ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+[2017-08-14 16:31:17,931- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:31:17,931- root - INFO] - return Template
+[2017-08-14 16:31:18,000- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:31:18,001- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:31:18,002- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:31:18,003- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:31:18,004- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:31:18,005- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:31:18,006- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:31:18,007- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:31:18,008- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:31:18,036- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:31:45,516- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:31:45,516- root - INFO] - return Template
+[2017-08-14 16:31:45,578- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:31:45,579- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:31:45,580- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:31:45,581- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:31:45,582- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:31:45,583- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:31:45,585- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:31:45,586- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:31:45,587- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:31:45,615- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:36:59,126- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:36:59,126- root - INFO] - return Template
+[2017-08-14 16:36:59,187- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:36:59,188- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:36:59,189- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:36:59,190- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:36:59,191- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:36:59,192- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:36:59,193- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:36:59,195- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:36:59,196- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:36:59,224- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:44:48,076- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:44:48,076- root - INFO] - return Template
+[2017-08-14 16:44:48,205- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:44:48,206- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:44:48,208- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:44:48,209- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:44:48,210- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:44:48,212- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:44:48,212- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:44:48,214- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:44:48,300- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:44:48,461- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:44:48,535- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:45:15,585- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:45:15,585- root - INFO] - open lazy connection...
+[2017-08-14 16:45:15,585- root - INFO] - SQL: select * from users where email=%s, ARGS: (u'hupeng894@pingan.com.cn',)
+[2017-08-14 16:45:15,586- root - ERROR] - 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 171, in register_user
+    user = User.find_first('where email=?', email)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/orm.py", line 244, in find_first
+    d = db.select_one('select * from %s %s' % (cls.__table__, where), *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 217, in _wrapper
+    return func(*args, **kw)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 373, in select_one
+    return _select(sql, True, *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 337, in _select
+    cursor = _db_ctx.connection.cursor()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 93, in cursor
+    connection = engine.connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 151, in connect
+    return self._connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 165, in <lambda>
+    engine = _Engine(lambda: mysql.connector.connect(**params))
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/abstracts.py", line 719, in connect
+    self._open_connection()
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 210, in _open_connection
+    self._ssl)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 144, in _do_auth
+    self._auth_switch_request(username, password)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 177, in _auth_switch_request
+    raise errors.get_exception(packet)
+ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+[2017-08-14 16:45:34,127- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:45:34,128- root - INFO] - open lazy connection...
+[2017-08-14 16:45:34,128- root - INFO] - SQL: select * from users where email=%s, ARGS: (u'hupeng894@pingan.com.cn',)
+[2017-08-14 16:45:34,129- root - ERROR] - 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 171, in register_user
+    user = User.find_first('where email=?', email)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/orm.py", line 244, in find_first
+    d = db.select_one('select * from %s %s' % (cls.__table__, where), *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 217, in _wrapper
+    return func(*args, **kw)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 373, in select_one
+    return _select(sql, True, *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 337, in _select
+    cursor = _db_ctx.connection.cursor()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 93, in cursor
+    connection = engine.connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 151, in connect
+    return self._connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 165, in <lambda>
+    engine = _Engine(lambda: mysql.connector.connect(**params))
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/abstracts.py", line 719, in connect
+    self._open_connection()
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 210, in _open_connection
+    self._ssl)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 144, in _do_auth
+    self._auth_switch_request(username, password)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 177, in _auth_switch_request
+    raise errors.get_exception(packet)
+ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+[2017-08-14 16:45:46,473- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:45:46,473- root - INFO] - return Template
+[2017-08-14 16:45:46,740- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:45:46,741- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:45:46,742- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:45:46,744- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:45:46,745- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:45:46,746- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:45:46,747- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:45:46,764- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:45:46,793- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:45:48,691- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:45:48,691- root - INFO] - return Template
+[2017-08-14 16:45:48,824- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:45:48,826- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:45:48,827- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:45:48,828- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:45:48,830- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:45:48,831- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:45:48,832- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:45:48,833- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:45:48,906- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:45:48,923- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:46:20,870- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:46:20,870- root - INFO] - open lazy connection...
+[2017-08-14 16:46:20,870- root - INFO] - SQL: select * from users where email=%s, ARGS: (u'hupeng894@pingan.com.cn',)
+[2017-08-14 16:46:20,871- root - ERROR] - 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 171, in register_user
+    user = User.find_first('where email=?', email)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/orm.py", line 244, in find_first
+    d = db.select_one('select * from %s %s' % (cls.__table__, where), *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 217, in _wrapper
+    return func(*args, **kw)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 373, in select_one
+    return _select(sql, True, *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 337, in _select
+    cursor = _db_ctx.connection.cursor()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 93, in cursor
+    connection = engine.connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 151, in connect
+    return self._connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 165, in <lambda>
+    engine = _Engine(lambda: mysql.connector.connect(**params))
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/abstracts.py", line 719, in connect
+    self._open_connection()
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 210, in _open_connection
+    self._ssl)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 144, in _do_auth
+    self._auth_switch_request(username, password)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 177, in _auth_switch_request
+    raise errors.get_exception(packet)
+ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+[2017-08-14 16:46:51,266- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:46:51,267- root - INFO] - open lazy connection...
+[2017-08-14 16:46:51,267- root - INFO] - SQL: select * from users where email=%s, ARGS: (u'hupeng894@pingan.com.cn',)
+[2017-08-14 16:46:51,267- root - ERROR] - 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 142, in authenticate
+    user = User.find_first('where email=?', email)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/orm.py", line 244, in find_first
+    d = db.select_one('select * from %s %s' % (cls.__table__, where), *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 217, in _wrapper
+    return func(*args, **kw)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 373, in select_one
+    return _select(sql, True, *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 337, in _select
+    cursor = _db_ctx.connection.cursor()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 93, in cursor
+    connection = engine.connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 151, in connect
+    return self._connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 165, in <lambda>
+    engine = _Engine(lambda: mysql.connector.connect(**params))
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/abstracts.py", line 719, in connect
+    self._open_connection()
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 210, in _open_connection
+    self._ssl)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 144, in _do_auth
+    self._auth_switch_request(username, password)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 177, in _auth_switch_request
+    raise errors.get_exception(packet)
+ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+[2017-08-14 16:51:18,464- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:51:18,465- root - INFO] - open lazy connection...
+[2017-08-14 16:51:18,465- root - INFO] - SQL: select * from users where email=%s, ARGS: (u'hupeng894@pingan.com.cn',)
+[2017-08-14 16:51:18,466- root - ERROR] - 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 142, in authenticate
+    user = User.find_first('where email=?', email)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/orm.py", line 244, in find_first
+    d = db.select_one('select * from %s %s' % (cls.__table__, where), *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 217, in _wrapper
+    return func(*args, **kw)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 373, in select_one
+    return _select(sql, True, *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 337, in _select
+    cursor = _db_ctx.connection.cursor()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 93, in cursor
+    connection = engine.connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 151, in connect
+    return self._connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 165, in <lambda>
+    engine = _Engine(lambda: mysql.connector.connect(**params))
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/abstracts.py", line 719, in connect
+    self._open_connection()
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 210, in _open_connection
+    self._ssl)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 144, in _do_auth
+    self._auth_switch_request(username, password)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 177, in _auth_switch_request
+    raise errors.get_exception(packet)
+ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+[2017-08-14 16:51:19,328- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:51:19,328- root - INFO] - open lazy connection...
+[2017-08-14 16:51:19,328- root - INFO] - SQL: select * from users where email=%s, ARGS: (u'hupeng894@pingan.com.cn',)
+[2017-08-14 16:51:19,329- root - ERROR] - 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 142, in authenticate
+    user = User.find_first('where email=?', email)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/orm.py", line 244, in find_first
+    d = db.select_one('select * from %s %s' % (cls.__table__, where), *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 217, in _wrapper
+    return func(*args, **kw)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 373, in select_one
+    return _select(sql, True, *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 337, in _select
+    cursor = _db_ctx.connection.cursor()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 93, in cursor
+    connection = engine.connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 151, in connect
+    return self._connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 165, in <lambda>
+    engine = _Engine(lambda: mysql.connector.connect(**params))
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/abstracts.py", line 719, in connect
+    self._open_connection()
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 210, in _open_connection
+    self._ssl)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 144, in _do_auth
+    self._auth_switch_request(username, password)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 177, in _auth_switch_request
+    raise errors.get_exception(packet)
+ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+[2017-08-14 16:51:19,965- root - INFO] - try to bind user from session cookie...
+[2017-08-14 16:51:19,966- root - INFO] - open lazy connection...
+[2017-08-14 16:51:19,966- root - INFO] - SQL: select * from users where email=%s, ARGS: (u'hupeng894@pingan.com.cn',)
+[2017-08-14 16:51:19,967- root - ERROR] - 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+Traceback (most recent call last):
+  File "/Users/hupeng/Downloads/gbd_spider/www/apis.py", line 128, in _wrapper
+    r = dumps(func(*args, **kw))
+  File "/Users/hupeng/Downloads/gbd_spider/www/urls.py", line 142, in authenticate
+    user = User.find_first('where email=?', email)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/orm.py", line 244, in find_first
+    d = db.select_one('select * from %s %s' % (cls.__table__, where), *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 217, in _wrapper
+    return func(*args, **kw)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 373, in select_one
+    return _select(sql, True, *args)
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 337, in _select
+    cursor = _db_ctx.connection.cursor()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 93, in cursor
+    connection = engine.connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 151, in connect
+    return self._connect()
+  File "/Users/hupeng/Downloads/gbd_spider/www/transwarp/db.py", line 165, in <lambda>
+    engine = _Engine(lambda: mysql.connector.connect(**params))
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/__init__.py", line 179, in connect
+    return MySQLConnection(*args, **kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 95, in __init__
+    self.connect(**kwargs)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/abstracts.py", line 719, in connect
+    self._open_connection()
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 210, in _open_connection
+    self._ssl)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 144, in _do_auth
+    self._auth_switch_request(username, password)
+  File "/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/mysql/connector/connection.py", line 177, in _auth_switch_request
+    raise errors.get_exception(packet)
+ProgrammingError: 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)

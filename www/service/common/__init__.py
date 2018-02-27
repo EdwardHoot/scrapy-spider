@@ -1,0 +1,1 @@
+from service.loggings import log_processor

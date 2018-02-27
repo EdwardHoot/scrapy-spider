@@ -1,0 +1,40 @@
+{% extends '__base__.html' %}
+
+{% block title %}任务日志{% endblock %}
+
+{% block beforehead %}
+
+<script>
+</script>
+
+{% endblock %}
+
+{% block content %}
+
+<table class="uk-table">
+    <caption>任务执行日志信息</caption>
+    <thead>
+    <tr>
+        <th>任务名称</th>
+        <th>任务描述</th>
+        <th>任务状态</th>
+        <th>开始时间</th>
+        <th>结束时间</th>
+        <th>任务状态</th>
+        <th>详   情</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr v-repeat="task:tasks">
+        <td>Table Data</td>
+        <td>Table Data</td>
+        <td>Table Data</td>
+        <td>Table Data</td>
+        <td>Table Data</td>
+        <td>Table Data</td>
+        <td>Table Data</td>
+    </tr>
+    </tbody>
+</table>
+
+{% endblock %}
